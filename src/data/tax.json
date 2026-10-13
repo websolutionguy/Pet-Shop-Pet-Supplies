@@ -1,0 +1,25 @@
+{
+  "storeOriginState": "OR",
+  "defaultTaxRate": 0.0,
+  "stateRates": {
+    "OR": {
+      "rate": 0.0,
+      "name": "Oregon (No State Sales Tax)"
+    },
+    "WA": {
+      "rate": 0.089,
+      "name": "Washington State Destination Tax"
+    },
+    "CA": {
+      "rate": 0.0775,
+      "name": "California Destination Tax"
+    },
+    "ID": {
+      "rate": 0.06,
+      "name": "Idaho State Sales Tax"
+    }
+  },
+  "exemptCategories": [
+    "food-staples-qualified"
+  ]
+}

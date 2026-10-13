@@ -1,0 +1,37 @@
+[
+  {
+    "id": "dogs",
+    "slug": "dogs",
+    "name": "Dogs",
+    "description": "Small-batch dry kibble, raw dehydrated proteins, Himalayan yak chews, and rugged gear.",
+    "popularCategories": ["dog-food", "treats", "supplements", "collars-leads", "toys"]
+  },
+  {
+    "id": "cats",
+    "slug": "cats",
+    "name": "Cats",
+    "description": "High-moisture bone broth entrees, freeze-dried organ treats, non-clumping natural litters, and whisker-friendly dishes.",
+    "popularCategories": ["cat-food", "treats", "litter", "supplements", "bowls-feeders"]
+  },
+  {
+    "id": "small-pets",
+    "slug": "small-pets",
+    "name": "Small Pets",
+    "description": "Sun-cured Western Timothy hay, botanical forage blends, and untreated kiln-dried bedding for rabbits and guinea pigs.",
+    "popularCategories": ["treats", "supplements", "cleaning"]
+  },
+  {
+    "id": "birds",
+    "slug": "birds",
+    "name": "Birds",
+    "description": "Nutrient-dense clean seed blends, cold-pressed pelleted diets, and natural wood foraging toys.",
+    "popularCategories": ["supplements", "toys"]
+  },
+  {
+    "id": "fish",
+    "slug": "fish",
+    "name": "Fish",
+    "description": "Cold-processed spirulina crisps, freeze-dried Antarctic krill, and natural bio-active water conditioners.",
+    "popularCategories": ["supplements", "cleaning"]
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "dog-food",
+    "slug": "dog-food",
+    "name": "Dog Food",
+    "petTypes": ["dogs"],
+    "description": "Small-batch baked dry kibble, raw dehydrated proteins, and slow-simmered bone broths.",
+    "productCount": 18
+  },
+  {
+    "id": "cat-food",
+    "slug": "cat-food",
+    "name": "Cat Food",
+    "petTypes": ["cats"],
+    "description": "High-moisture bone broth entrees, shredded poultry, and gently steamed pate.",
+    "productCount": 14
+  },
+  {
+    "id": "treats",
+    "slug": "treats",
+    "name": "Treats",
+    "petTypes": ["dogs", "cats", "small-pets", "birds"],
+    "description": "Single-ingredient freeze-dried meats, Himalayan yak cheese chews, and botanical forage.",
+    "productCount": 26
+  },
+  {
+    "id": "litter",
+    "slug": "litter",
+    "name": "Litter",
+    "petTypes": ["cats", "small-pets"],
+    "description": "Dust-free sustainable wood fiber, crushed walnut shell, and unscented paper litters.",
+    "productCount": 8
+  },
+  {
+    "id": "supplements",
+    "slug": "supplements",
+    "name": "Supplements",
+    "petTypes": ["dogs", "cats", "small-pets", "birds", "fish"],
+    "description": "Cold-pressed wild salmon oil, chamomile calming soft chews, and digestive enzymes.",
+    "productCount": 16
+  },
+  {
+    "id": "grooming",
+    "slug": "grooming",
+    "name": "Grooming",
+    "petTypes": ["dogs", "cats"],
+    "description": "Oatmeal-infused bar soaps, conditioning spritzes, and natural boar bristle brushes.",
+    "productCount": 12
+  },
+  {
+    "id": "toys",
+    "slug": "toys",
+    "name": "Toys",
+    "petTypes": ["dogs", "cats", "birds"],
+    "description": "Natural hemp rope tugs, untreated wooden perches, and organic wool chase mice.",
+    "productCount": 15
+  },
+  {
+    "id": "beds",
+    "slug": "beds",
+    "name": "Beds",
+    "petTypes": ["dogs", "cats"],
+    "description": "Heavyweight canvas lounge beds with channeled virgin wool and recycled cotton fill.",
+    "productCount": 7
+  },
+  {
+    "id": "collars-leads",
+    "slug": "collars-leads",
+    "name": "Collars & Leads",
+    "petTypes": ["dogs", "cats"],
+    "description": "Hand-stitched English bridle leather and beeswaxed canvas leads with sand-cast brass hardware.",
+    "productCount": 11
+  },
+  {
+    "id": "bowls-feeders",
+    "slug": "bowls-feeders",
+    "name": "Bowls & Feeders",
+    "petTypes": ["dogs", "cats", "small-pets", "birds"],
+    "description": "Heavy stoneware ceramic dishes, whisker-relief shallow saucers, and slow-feeder mats.",
+    "productCount": 9
+  },
+  {
+    "id": "cleaning",
+    "slug": "cleaning",
+    "name": "Cleaning",
+    "petTypes": ["dogs", "cats", "small-pets", "birds", "fish"],
+    "description": "Bio-enzymatic stain neutralizers, aquarium water conditioning drops, and plant-based surface sprays.",
+    "productCount": 8
+  },
+  {
+    "id": "travel",
+    "slug": "travel",
+    "name": "Travel",
+    "petTypes": ["dogs", "cats"],
+    "description": "Waxed canvas water-repellent travel bowls, seat belt safety tethers, and packable blankets.",
+    "productCount": 6
+  }
+]

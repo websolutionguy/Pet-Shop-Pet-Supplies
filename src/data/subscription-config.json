@@ -1,0 +1,70 @@
+{
+  "enabled": true,
+  "programName": "Rowan & Hound Steady Auto-Ship",
+  "defaultFrequency": "4-weeks",
+  "allowedFrequencies": [
+    "2-weeks",
+    "4-weeks",
+    "6-weeks",
+    "8-weeks"
+  ],
+  "supportedFrequencies": [
+    "2-weeks",
+    "4-weeks",
+    "6-weeks",
+    "8-weeks"
+  ],
+  "discount": 10,
+  "defaultDiscountPercentage": 10,
+  "minimumQuantity": 1,
+  "maximumQuantity": 10,
+  "minimumOrderValue": 15.0,
+  "maximumOrderValue": 1000.0,
+  "eligibleProducts": [
+    "prod-venison-ancient-grains",
+    "prod-salmon-oil-omega",
+    "prod-himalayan-yak-chews",
+    "prod-turkey-bone-broth-cat",
+    "prod-duck-liver-training-treats",
+    "prod-chamomile-calming-bites",
+    "prod-timothy-hay-box",
+    "prod-botanical-grooming-shampoo",
+    "prod-pine-cedar-cat-litter",
+    "prod-applewood-herbal-chews"
+  ],
+  "eligibleVariants": [],
+  "subscriptionOnlyProducts": [
+    "prod-chamomile-calming-bites"
+  ],
+  "oneTimeOnlyProducts": [
+    "prod-bridle-leather-canvas-leash",
+    "prod-boar-bristle-brush"
+  ],
+  "inventoryAvailability": {
+    "requireInStock": true,
+    "minStockThreshold": 1
+  },
+  "outOfStockBehavior": "notify-swap",
+  "messages": {
+    "subscriptionDisabled": "Our recurring auto-ship service is temporarily paused for routine pantry maintenance. You can still purchase this provision as a one-time order.",
+    "productNotEligible": "This handcrafted item is an artisan one-time provision and is not eligible for recurring auto-ship deliveries.",
+    "subscriptionOnly": "This special pantry batch is an auto-ship exclusive and cannot be purchased as a one-time order.",
+    "frequencyUnavailable": "The requested delivery frequency '{frequency}' is not available for this provision. Available frequencies: {allowed}.",
+    "quantityInvalid": "Auto-ship deliveries require between {min} and {max} units per delivery cycle to ensure small-batch freshness and fair pantry availability.",
+    "orderValueInvalid": "Auto-ship deliveries require an order subtotal between ${min} and ${max}.",
+    "productUnavailable": "This recipe is temporarily resting between small batches and is not currently in stock for auto-ship reservation.",
+    "invalidConfig": "The subscription configuration is invalid or missing essential program parameters. Please contact customer care."
+  },
+  "freeShippingThreshold": 49.0,
+  "guarantees": [
+    "Guaranteed 10% recurring discount applied to every subscription delivery",
+    "Fresh-batch allocation reserved prior to public store shelves",
+    "Pause, skip, or cancel anytime with one click — zero phone calls or minimum commitment",
+    "Complimentary regional courier delivery on all orders over $49"
+  ],
+  "minimumCyclesBeforeCancellation": 0,
+  "allowCadenceModification": true,
+  "allowImmediateSkip": true,
+  "reminderNoticeDaysBeforeDispatch": 3,
+  "smsRemindersEnabled": true
+}

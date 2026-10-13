@@ -1,0 +1,9 @@
+{
+  "oneClickReorderEnabled": true,
+  "reorderWindowDays": 90,
+  "defaultCadenceSuggestion": "4-weeks",
+  "reorderDiscountPercentage": 5,
+  "pantryDepletionAlertDays": 5,
+  "autoSuggestBasedOnPetWeight": true,
+  "allowDirectCartInjection": true
+}

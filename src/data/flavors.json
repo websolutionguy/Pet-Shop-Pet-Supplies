@@ -1,0 +1,10 @@
+[
+  { "id": "venison-ancient-spelt", "name": "Free-Range Venison & Ancient Spelt", "protein": "Venison" },
+  { "id": "wild-alaskan-salmon", "name": "Pure Wild Alaskan Sockeye Salmon", "protein": "Salmon" },
+  { "id": "heritage-turkey-broth", "name": "Cage-Free Turkey & Simmered Bone Broth", "protein": "Turkey" },
+  { "id": "freeze-dried-duck-liver", "name": "Single-Ingredient Raw Duck Liver", "protein": "Duck" },
+  { "id": "himalayan-yak-milk", "name": "Sun-Cured Pasture Yak Milk", "protein": "Yak Milk" },
+  { "id": "chamomile-botanical", "name": "German Chamomile, L-Theanine & Colostrum", "protein": "Colostrum" },
+  { "id": "western-timothy", "name": "First-Cut Western Timothy Grass", "protein": "Plant Fiber" },
+  { "id": "spirulina-krill", "name": "Pacific Spirulina & Antarctic Krill", "protein": "Krill & Microalgae" }
+]

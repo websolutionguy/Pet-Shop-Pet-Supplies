@@ -1,0 +1,6 @@
+{
+  "name": "Rowan & Hound Pet Supply Co.",
+  "description": "Independent pet nutrition, provisions, and flexible routine auto-ship subscriptions for dogs and cats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

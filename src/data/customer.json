@@ -1,0 +1,52 @@
+{
+  "id": "cust-eleanor-vance",
+  "email": "eleanor.vance@pacifictrail.org",
+  "firstName": "Eleanor",
+  "lastName": "Vance",
+  "phone": "(503) 555-0192",
+  "memberSince": "2023-04-12",
+  "hasActiveSubscription": true,
+  "totalSavedWithSubscriptions": 142.80,
+  "defaultShippingAddress": {
+    "fullName": "Eleanor Vance",
+    "streetLine1": "2841 NW Cumberland Rd",
+    "streetLine2": "Apt 4B",
+    "city": "Portland",
+    "state": "OR",
+    "postalCode": "97210",
+    "country": "United States",
+    "phone": "(503) 555-0192"
+  },
+  "pets": [
+    {
+      "id": "pet-barnaby-dog",
+      "customerId": "cust-eleanor-vance",
+      "name": "Barnaby",
+      "species": "dog",
+      "breed": "Golden Retriever",
+      "ageYears": 4,
+      "ageMonths": 2,
+      "weightLbs": 68,
+      "activityLevel": "high",
+      "dietaryRestrictions": ["Poultry Sensitivity", "Prefers Venison or Fish"],
+      "primaryFoodProductId": "prod-venison-ancient-grains",
+      "calculatedBagCadenceWeeks": 4,
+      "notes": "Loves hiking the Forest Park trails. Needs sturdy chews."
+    },
+    {
+      "id": "pet-milo-cat",
+      "customerId": "cust-eleanor-vance",
+      "name": "Milo",
+      "species": "cat",
+      "breed": "British Shorthair",
+      "ageYears": 2,
+      "ageMonths": 7,
+      "weightLbs": 11,
+      "activityLevel": "moderate",
+      "dietaryRestrictions": ["Requires Extra Broth Hydration"],
+      "primaryFoodProductId": "prod-turkey-bone-broth-cat",
+      "calculatedBagCadenceWeeks": 4,
+      "notes": "Picky with dry food, thrives on warm bone broth entrees."
+    }
+  ]
+}

@@ -1,0 +1,741 @@
+[
+  {
+    "id": "prod-venison-ancient-grains",
+    "slug": "heritage-venison-ancient-grains-dog-food",
+    "name": "Heritage Venison & Ancient Spelt Dry Kibble",
+    "brand": "Rowan & Hound Reserve",
+    "category": "dog-food",
+    "petType": "dogs",
+    "productType": "dry-kibble",
+    "shortDescription": "Pasture-grazed venison gently roasted with sprouted ancient spelt, pumpkin seed, and cold-pressed flax.",
+    "description": "Formulated for active working dogs and breeds with poultry sensitivities. We source grass-grazed venison from regenerative Pacific Northwest family ranches, paired with slowly simmered sprouted spelt and pumpkin to support stable digestion and lean muscular vigor.",
+    "price": 34.0,
+    "compareAtPrice": 38.0,
+    "currency": "USD",
+    "images": [
+      "/src/assets/images/product_venison_kibble_1790396027749.jpg"
+    ],
+    "thumbnail": "/src/assets/images/product_venison_kibble_1790396027749.jpg",
+    "gallery": [
+      "/src/assets/images/product_venison_kibble_1790396027749.jpg"
+    ],
+    "sizes": ["6 lb Pantry Bag", "14 lb Standard Bag", "28 lb Kennel Reserve"],
+    "flavors": ["Free-Range Venison & Ancient Spelt"],
+    "weight": "6 lbs",
+    "ingredients": [
+      "New Zealand Venison",
+      "Sprouted Spelt",
+      "Pumpkin Seeds",
+      "Cold-Pressed Flaxseed Oil",
+      "Kelp Flour",
+      "Organic Blueberries",
+      "Zinc Proteinate",
+      "Live Viable Probiotic Fermentate"
+    ],
+    "nutrition": {
+      "crudeProtein": "29.5% min",
+      "crudeFat": "15.0% min",
+      "crudeFiber": "3.8% max",
+      "moisture": "9.5% max"
+    },
+    "features": [
+      "Single red meat protein source",
+      "Sprouted low-glycemic ancient spelt",
+      "Baked in small kettle runs every 21 days"
+    ],
+    "benefits": [
+      "Eliminates poultry-induced itchiness",
+      "Maintains sustained working stamina",
+      "Supports stable gastrointestinal firm stools"
+    ],
+    "tags": ["Single Protein", "Poultry Free", "Digestive Health", "Active Dogs"],
+    "featured": true,
+    "popular": true,
+    "new": false,
+    "availability": "in-stock",
+    "stockStatus": "In Stock",
+    "subscriptionEligible": true,
+    "reorderEligible": true,
+    "subscriptionDiscount": 10,
+    "reorderDiscount": 5,
+    "frequencyOptions": ["2-weeks", "4-weeks", "6-weeks", "8-weeks"],
+    "minimumQuantity": 1,
+    "maximumQuantity": 6,
+    "relatedProducts": [
+      "prod-salmon-oil-omega",
+      "prod-himalayan-yak-chews",
+      "prod-duck-liver-training-treats"
+    ]
+  },
+  {
+    "id": "prod-salmon-oil-omega",
+    "slug": "wild-alaskan-salmon-oil-omega-pump",
+    "name": "Cold-Pressed Wild Alaskan Salmon Oil",
+    "brand": "Rowan & Hound Apothecary",
+    "category": "supplements",
+    "petType": "dogs",
+    "productType": "liquid-supplements",
+    "shortDescription": "Sustainably line-caught wild salmon oil rich in bioactive EPA & DHA for joint lubricity and dense coat shine.",
+    "description": "Harvested within 24 hours of catch in icy Alaskan waters. Bottled in amber glass with an airtight dose pump to eliminate oxidation. A daily splash over morning meals significantly reduces seasonal shedding, supports skin moisture barrier, and eases senior stiffness.",
+    "price": 24.0,
+    "compareAtPrice": 28.0,
+    "currency": "USD",
+    "images": [
+      "/src/assets/images/product_salmon_oil_1790396039263.jpg"
+    ],
+    "thumbnail": "/src/assets/images/product_salmon_oil_1790396039263.jpg",
+    "gallery": [
+      "/src/assets/images/product_salmon_oil_1790396039263.jpg"
+    ],
+    "sizes": ["8 fl oz Pump Bottle", "16 fl oz Pump Bottle"],
+    "flavors": ["Pure Wild Alaskan Sockeye Salmon"],
+    "weight": "0.5 lbs",
+    "ingredients": [
+      "100% Wild Alaskan Sockeye Salmon Oil",
+      "Non-GMO Mixed Tocopherols (Vitamin E preservative)"
+    ],
+    "nutrition": {
+      "crudeProtein": "0.1% min",
+      "crudeFat": "99.5% min",
+      "crudeFiber": "0.0% max",
+      "moisture": "0.4% max"
+    },
+    "features": [
+      "High natural bioavailable EPA & DHA ratio",
+      "Amber glass protective apothecary bottle",
+      "Airtight pump dispenser preventing rancidity"
+    ],
+    "benefits": [
+      "Reduces dry skin flakes and excessive shedding",
+      "Lubricates hips and stifle joints for aging companions",
+      "Enhances meal palatability for discerning eaters"
+    ],
+    "tags": ["Omega-3 EPA/DHA", "Joint Support", "Coat Health", "Senior Care"],
+    "featured": true,
+    "popular": true,
+    "new": false,
+    "availability": "in-stock",
+    "stockStatus": "In Stock",
+    "subscriptionEligible": true,
+    "reorderEligible": true,
+    "subscriptionDiscount": 10,
+    "reorderDiscount": 5,
+    "frequencyOptions": ["4-weeks", "6-weeks", "8-weeks", "12-weeks"],
+    "minimumQuantity": 1,
+    "maximumQuantity": 8,
+    "relatedProducts": [
+      "prod-venison-ancient-grains",
+      "prod-turkey-bone-broth-cat"
+    ]
+  },
+  {
+    "id": "prod-himalayan-yak-chews",
+    "slug": "hand-crafted-himalayan-yak-cheese-chews",
+    "name": "Artisanal Himalayan Yak Cheese Hard Chews",
+    "brand": "Rowan & Hound Provisions",
+    "category": "treats",
+    "petType": "dogs",
+    "productType": "hard-chews",
+    "shortDescription": "Traditional smoked cheese bars made from free-range pasture yak milk. Long-lasting, low odor, and gentle on gums.",
+    "description": "Sun-cured and hickory smoked for over 3 months in high mountain altitudes. These dense mineral-rich cheese batons provide up to 8 hours of quiet focus chewing for energetic pups. When the end piece becomes too small, microwave for 45 seconds to create a puffed crunchy treat with zero waste.",
+    "price": 19.5,
+    "compareAtPrice": 22.0,
+    "currency": "USD",
+    "images": [
+      "/src/assets/images/product_yak_chews_1790396050313.jpg"
+    ],
+    "thumbnail": "/src/assets/images/product_yak_chews_1790396050313.jpg",
+    "gallery": [
+      "/src/assets/images/product_yak_chews_1790396050313.jpg"
+    ],
+    "sizes": ["Medium 3-Pack", "Large 3-Pack"],
+    "flavors": ["Sun-Cured Pasture Yak Milk"],
+    "weight": "0.7 lbs",
+    "ingredients": [
+      "Yak Milk",
+      "Cow Milk",
+      "Lime Juice",
+      "Himalayan Salt (less than 0.1%)"
+    ],
+    "nutrition": {
+      "crudeProtein": "66.0% min",
+      "crudeFat": "4.2% min",
+      "crudeFiber": "0.5% max",
+      "moisture": "10.0% max"
+    },
+    "features": [
+      "100% natural and lactose-free through traditional whey separation",
+      "Odorless and non-staining on domestic rugs",
+      "Microwaveable puff finish eliminates choking hazards"
+    ],
+    "benefits": [
+      "Gently cleans plaque and tartar from back molars",
+      "Provides mental calming for high-energy breeds",
+      "Zero rawhide glue, bleach, or synthetic flavorings"
+    ],
+    "tags": ["Dental Care", "Lactose-Free", "Long-Lasting", "Non-Rawhide"],
+    "featured": true,
+    "popular": true,
+    "new": false,
+    "availability": "in-stock",
+    "stockStatus": "In Stock",
+    "subscriptionEligible": true,
+    "reorderEligible": true,
+    "subscriptionDiscount": 10,
+    "reorderDiscount": 5,
+    "frequencyOptions": ["2-weeks", "4-weeks", "6-weeks"],
+    "minimumQuantity": 1,
+    "maximumQuantity": 10,
+    "relatedProducts": [
+      "prod-venison-ancient-grains",
+      "prod-duck-liver-training-treats"
+    ]
+  },
+  {
+    "id": "prod-turkey-bone-broth-cat",
+    "slug": "heritage-turkey-bone-broth-cat-pate",
+    "name": "Slow-Simmered Heritage Turkey & Bone Broth Cat Entree",
+    "brand": "Rowan & Hound Reserve",
+    "category": "cat-food",
+    "petType": "cats",
+    "productType": "wet-food",
+    "shortDescription": "Tender cage-free turkey infused with collagen-rich slow simmered bone broth to support urinary hydration.",
+    "description": "Cats require daily dietary moisture to protect kidney and bladder health. Our slow-steamed turkey pate provides 81% biological moisture with natural organ meats and taurine, without thickeners like carrageenan, guar gum, or synthetic gels.",
+    "price": 38.0,
+    "compareAtPrice": 42.0,
+    "currency": "USD",
+    "images": [
+      "/src/assets/images/product_venison_kibble_1790396027749.jpg"
+    ],
+    "thumbnail": "/src/assets/images/product_venison_kibble_1790396027749.jpg",
+    "gallery": [
+      "/src/assets/images/product_venison_kibble_1790396027749.jpg"
+    ],
+    "sizes": ["Case of 12 (5.5 oz)", "Case of 24 (5.5 oz)"],
+    "flavors": ["Cage-Free Turkey & Simmered Bone Broth"],
+    "weight": "4.1 lbs",
+    "ingredients": [
+      "Turkey Muscle Meat",
+      "Turkey Liver",
+      "Simmered Turkey Bone Broth",
+      "Pumpkin Puree",
+      "Taurine",
+      "Cranberry Extract",
+      "Chelated Minerals"
+    ],
+    "nutrition": {
+      "crudeProtein": "11.5% min",
+      "crudeFat": "6.0% min",
+      "crudeFiber": "0.8% max",
+      "moisture": "81.0% max"
+    },
+    "features": [
+      "81% organic broth hydration",
+      "Zero carrageenan or thickener gums",
+      "Packed in non-BPA coated safety cans"
+    ],
+    "benefits": [
+      "Protects against feline urinary crystal formation",
+      "Supports healthy kidney filtration in adult cats",
+      "Natural aroma entices finicky cats"
+    ],
+    "tags": ["Feline Hydration", "Taurine Fortified", "Gum Free", "Kidney Support"],
+    "featured": false,
+    "popular": true,
+    "new": false,
+    "availability": "in-stock",
+    "stockStatus": "In Stock",
+    "subscriptionEligible": true,
+    "reorderEligible": true,
+    "subscriptionDiscount": 10,
+    "reorderDiscount": 5,
+    "frequencyOptions": ["2-weeks", "4-weeks", "6-weeks"],
+    "minimumQuantity": 1,
+    "maximumQuantity": 10,
+    "relatedProducts": [
+      "prod-salmon-oil-omega",
+      "prod-duck-liver-training-treats"
+    ]
+  },
+  {
+    "id": "prod-duck-liver-training-treats",
+    "slug": "single-ingredient-freeze-dried-duck-liver",
+    "name": "Raw Freeze-Dried Duck Liver Training Morsels",
+    "brand": "Rowan & Hound Provisions",
+    "category": "treats",
+    "petType": "dogs",
+    "productType": "raw-freeze-dried",
+    "shortDescription": "100% pure duck liver flash-frozen to preserve raw micronutrients. High-value reward for obedience and recall.",
+    "description": "Only one ingredient: humanely raised duck liver. Gently flash-frozen at -40°F under high vacuum to preserve natural aroma, vitamin A, and bioavailable iron. Breaks cleanly in fingers into tiny training morsels without greasy residue.",
+    "price": 16.5,
+    "compareAtPrice": 18.5,
+    "currency": "USD",
+    "images": [
+      "/src/assets/images/product_yak_chews_1790396050313.jpg"
+    ],
+    "thumbnail": "/src/assets/images/product_yak_chews_1790396050313.jpg",
+    "gallery": [
+      "/src/assets/images/product_yak_chews_1790396050313.jpg"
+    ],
+    "sizes": ["4 oz Training Pouch", "10 oz Master Pouch"],
+    "flavors": ["Single-Ingredient Raw Duck Liver"],
+    "weight": "0.25 lbs",
+    "ingredients": ["100% Free-Range Duck Liver"],
+    "nutrition": {
+      "crudeProtein": "62.0% min",
+      "crudeFat": "16.0% min",
+      "crudeFiber": "1.0% max",
+      "moisture": "5.0% max"
+    },
+    "features": [
+      "Single raw ingredient with zero fillers",
+      "Clean hand crumble for tiny reward pieces",
+      "18-month room temperature shelf life"
+    ],
+    "benefits": [
+      "Unmatched canine recall response during leash walks",
+      "High natural bioavailable iron and vitamin A",
+      "Perfect meal topper for low-appetite companions"
+    ],
+    "tags": ["Single Ingredient", "Raw Nutrition", "High-Value Training", "Low-Grease"],
+    "featured": false,
+    "popular": true,
+    "new": false,
+    "availability": "in-stock",
+    "stockStatus": "In Stock",
+    "subscriptionEligible": true,
+    "reorderEligible": true,
+    "subscriptionDiscount": 10,
+    "reorderDiscount": 5,
+    "frequencyOptions": ["2-weeks", "4-weeks", "6-weeks", "8-weeks"],
+    "minimumQuantity": 1,
+    "maximumQuantity": 12,
+    "relatedProducts": [
+      "prod-venison-ancient-grains",
+      "prod-himalayan-yak-chews"
+    ]
+  },
+  {
+    "id": "prod-chamomile-calming-bites",
+    "slug": "organic-chamomile-probiotic-calming-bites",
+    "name": "Botanical Chamomile & L-Theanine Calming Soft Chews",
+    "brand": "Rowan & Hound Apothecary",
+    "category": "supplements",
+    "petType": "dogs",
+    "productType": "soft-chew-supplements",
+    "shortDescription": "Vet-formulated herbal soft chews to steady nervous dogs during thunderstorms, vet trips, and separation.",
+    "description": "Combines organic German chamomile blossoms, Suntheanine brand L-Theanine, and magnesium glycinate with calming bovine colostrum. Promotes relaxed focus without grogginess or sedation.",
+    "price": 28.0,
+    "compareAtPrice": 32.0,
+    "currency": "USD",
+    "images": [
+      "/src/assets/images/product_salmon_oil_1790396039263.jpg"
+    ],
+    "thumbnail": "/src/assets/images/product_salmon_oil_1790396039263.jpg",
+    "gallery": [
+      "/src/assets/images/product_salmon_oil_1790396039263.jpg"
+    ],
+    "sizes": ["90 Soft Chews Tub"],
+    "flavors": ["German Chamomile, L-Theanine & Colostrum"],
+    "weight": "0.8 lbs",
+    "ingredients": [
+      "Organic Chamomile Flower",
+      "Suntheanine (L-Theanine)",
+      "Valerian Root Extract",
+      "Bovine Colostrum",
+      "Magnesium Glycinate",
+      "Natural Duck Broth"
+    ],
+    "nutrition": {
+      "crudeProtein": "14.0% min",
+      "crudeFat": "10.0% min",
+      "crudeFiber": "2.5% max",
+      "moisture": "18.0% max"
+    },
+    "features": [
+      "Non-drowsy botanical formula",
+      "Gentle cold-pressed soft morsels",
+      "Fast acting within 45 minutes"
+    ],
+    "benefits": [
+      "Soothes firework and thunder anxieties",
+      "Supports calm focus during travel and car rides",
+      "Zero pharmaceutical synthetic sedatives"
+    ],
+    "tags": ["Stress Support", "Non-Drowsy", "Separation Anxiety", "Vet Formulated"],
+    "featured": false,
+    "popular": false,
+    "new": false,
+    "availability": "in-stock",
+    "stockStatus": "In Stock",
+    "subscriptionEligible": true,
+    "reorderEligible": true,
+    "subscriptionDiscount": 10,
+    "reorderDiscount": 5,
+    "frequencyOptions": ["4-weeks", "6-weeks", "8-weeks"],
+    "minimumQuantity": 1,
+    "maximumQuantity": 6,
+    "relatedProducts": [
+      "prod-salmon-oil-omega",
+      "prod-venison-ancient-grains"
+    ]
+  },
+  {
+    "id": "prod-timothy-hay-box",
+    "slug": "sun-cured-western-timothy-hay-small-pets",
+    "name": "First-Cut Sun-Cured Western Timothy Hay",
+    "brand": "Willamette Valley Forage Co.",
+    "category": "treats",
+    "petType": "small-pets",
+    "productType": "hay-forage",
+    "shortDescription": "High-fiber sweet green Timothy grass hand-packed in breathable corrugated cartons for rabbits and guinea pigs.",
+    "description": "Grown in the rich alluvial soils of Oregon’s Willamette Valley. Harvested at optimal stem maturity to ensure coarse dental wear fibers and fragrant green leafy tips. Hand-sorted to remove field dust and weeds, packed loosely in a recyclable carton that doubles as a tidy dispensing box.",
+    "price": 22.0,
+    "compareAtPrice": 25.0,
+    "currency": "USD",
+    "images": [
+      "/src/assets/images/product_venison_kibble_1790396027749.jpg"
+    ],
+    "thumbnail": "/src/assets/images/product_venison_kibble_1790396027749.jpg",
+    "gallery": [
+      "/src/assets/images/product_venison_kibble_1790396027749.jpg"
+    ],
+    "sizes": ["5 lb Breathable Carton"],
+    "flavors": ["First-Cut Western Timothy Grass"],
+    "weight": "5 lbs",
+    "ingredients": ["100% Sun-Cured Western Timothy Grass"],
+    "nutrition": {
+      "crudeProtein": "7.5% min",
+      "crudeFat": "1.5% min",
+      "crudeFiber": "32.0% max",
+      "moisture": "12.0% max"
+    },
+    "features": [
+      "Hand-sorted to eliminate abrasive field dust",
+      "Sturdy cardboard feeding dispenser",
+      "Coarse stem structure for constant dental grinding"
+    ],
+    "benefits": [
+      "Prevents dangerous molar spurs in small herbivores",
+      "Maintains essential cecal fermentation motility",
+      "Satisfies natural foraging and burrowing instincts"
+    ],
+    "tags": ["High Fiber", "Dental Wear", "Rabbit Care", "Guinea Pig", "Dust Free"],
+    "featured": false,
+    "popular": true,
+    "new": true,
+    "availability": "in-stock",
+    "stockStatus": "In Stock",
+    "subscriptionEligible": true,
+    "reorderEligible": true,
+    "subscriptionDiscount": 10,
+    "reorderDiscount": 5,
+    "frequencyOptions": ["4-weeks", "6-weeks", "8-weeks"],
+    "minimumQuantity": 1,
+    "maximumQuantity": 4,
+    "relatedProducts": []
+  },
+  {
+    "id": "prod-bridle-leather-canvas-leash",
+    "slug": "waxed-canvas-bridle-leather-walking-leash",
+    "name": "Waxed Duck Canvas & English Bridle Leather Lead",
+    "brand": "Rowan & Hound Workshop",
+    "category": "collars-leads",
+    "petType": "dogs",
+    "productType": "leather-canvas-gear",
+    "shortDescription": "Heavyweight 16oz weatherproof waxed canvas coupled with vegetable-tanned Wickett & Craig leather and solid brass hardware.",
+    "description": "Hand-stitched in small batches by leathercrafters in the Pacific Northwest. The dense beeswax finish repels rain, river mud, and brush thorns, while the oil-dipped bridle handle softens gracefully to your grip over years of daily walks.",
+    "price": 48.0,
+    "compareAtPrice": 52.0,
+    "currency": "USD",
+    "images": [
+      "/src/assets/images/product_yak_chews_1790396050313.jpg"
+    ],
+    "thumbnail": "/src/assets/images/product_yak_chews_1790396050313.jpg",
+    "gallery": [
+      "/src/assets/images/product_yak_chews_1790396050313.jpg"
+    ],
+    "sizes": ["5-Foot Standard Lead"],
+    "flavors": ["Unflavored / Natural"],
+    "weight": "0.5 lbs",
+    "ingredients": [
+      "16oz Beeswaxed Cotton Duck Canvas",
+      "Wickett & Craig English Bridle Leather",
+      "Sand-Cast Solid Brass Swivel Snap"
+    ],
+    "nutrition": {
+      "crudeProtein": "N/A",
+      "crudeFat": "N/A",
+      "crudeFiber": "N/A",
+      "moisture": "N/A"
+    },
+    "features": [
+      "Sand-cast solid brass snap bolt that never seizes in grit",
+      "Natural beeswax water-repellent barrier",
+      "Lifetime stitching repair warranty"
+    ],
+    "benefits": [
+      "Eliminates painful nylon rope burns when dogs lunge",
+      "Wipes clean of river mud with a damp cloth",
+      "Develops rich patina over decades of trail use"
+    ],
+    "tags": ["Handcrafted", "Lifetime Warranty", "Weatherproof", "Solid Brass"],
+    "featured": false,
+    "popular": false,
+    "new": false,
+    "availability": "in-stock",
+    "stockStatus": "In Stock",
+    "subscriptionEligible": false,
+    "reorderEligible": true,
+    "subscriptionDiscount": 0,
+    "reorderDiscount": 5,
+    "frequencyOptions": [],
+    "minimumQuantity": 1,
+    "maximumQuantity": 4,
+    "relatedProducts": [
+      "prod-venison-ancient-grains",
+      "prod-duck-liver-training-treats"
+    ]
+  },
+  {
+    "id": "prod-botanical-grooming-shampoo",
+    "slug": "wild-lavender-colloidal-oatmeal-coat-wash",
+    "name": "Wild Lavender & Colloidal Oatmeal Soothing Coat Wash",
+    "brand": "Rowan & Hound Apothecary",
+    "category": "grooming",
+    "petType": "both",
+    "productType": "grooming-wash",
+    "shortDescription": "Gentle tearless wash with organic Oregon lavender and micro-milled colloidal oatmeal to calm itchy seasonal skin.",
+    "description": "Crafted with saponified plant oils, wild-harvested Pacific Northwest lavender hydrosol, and organic colloidal oatmeal. pH-balanced specifically for canine and feline skin barriers, free of sulfates, parabens, and synthetic dyes.",
+    "price": 22.0,
+    "compareAtPrice": 24.0,
+    "currency": "USD",
+    "images": [
+      "/src/assets/images/product_salmon_oil_1790396039263.jpg"
+    ],
+    "thumbnail": "/src/assets/images/product_salmon_oil_1790396039263.jpg",
+    "gallery": [
+      "/src/assets/images/product_salmon_oil_1790396039263.jpg"
+    ],
+    "sizes": ["16 fl oz Amber Bottle"],
+    "flavors": ["Unscented / Natural Wild Lavender"],
+    "weight": "1.2 lbs",
+    "ingredients": [
+      "Purified Water",
+      "Organic Colloidal Oatmeal",
+      "Organic Lavender Flower Hydrosol",
+      "Coconut Glucoside",
+      "Vegetable Glycerin",
+      "Aloe Barbadensis Leaf Juice"
+    ],
+    "nutrition": {
+      "crudeProtein": "N/A",
+      "crudeFat": "N/A",
+      "crudeFiber": "N/A",
+      "moisture": "N/A"
+    },
+    "features": [
+      "Tearless botanical surfactant base",
+      "Micro-milled colloidal oatmeal skin relief",
+      "Biodegradable and river-safe formulation"
+    ],
+    "benefits": [
+      "Calms environmental pollen and grass itch",
+      "Leaves coat naturally clean without heavy residue",
+      "Hydrates sensitive dry dander"
+    ],
+    "tags": ["Grooming", "Tearless", "Colloidal Oatmeal", "Sensitive Skin"],
+    "featured": false,
+    "popular": true,
+    "new": true,
+    "availability": "in-stock",
+    "stockStatus": "In Stock",
+    "subscriptionEligible": true,
+    "reorderEligible": true,
+    "subscriptionDiscount": 10,
+    "reorderDiscount": 5,
+    "frequencyOptions": ["6-weeks", "8-weeks", "12-weeks"],
+    "minimumQuantity": 1,
+    "maximumQuantity": 6,
+    "relatedProducts": ["prod-salmon-oil-omega"]
+  },
+  {
+    "id": "prod-boar-bristle-brush",
+    "slug": "handcrafted-beechwood-boar-bristle-brush",
+    "name": "Handcrafted Beechwood & Natural Boar Bristle Finishing Brush",
+    "brand": "Rowan & Hound Workshop",
+    "category": "grooming",
+    "petType": "both",
+    "productType": "grooming-tool",
+    "shortDescription": "FSC-certified European beechwood pin and natural boar bristle brush to distribute skin sebum and polish coat shine.",
+    "description": "Ergonomically turned from sustainably harvested beechwood and oiled with linseed. Dual-sided design combines rounded steel massage pins for detangling with natural boar bristles that distribute sebaceous oils from root to tip.",
+    "price": 26.0,
+    "compareAtPrice": 28.0,
+    "currency": "USD",
+    "images": [
+      "/src/assets/images/product_yak_chews_1790396050313.jpg"
+    ],
+    "thumbnail": "/src/assets/images/product_yak_chews_1790396050313.jpg",
+    "gallery": [
+      "/src/assets/images/product_yak_chews_1790396050313.jpg"
+    ],
+    "sizes": ["Classic Medium Handle"],
+    "flavors": ["Natural Beechwood"],
+    "weight": "0.4 lbs",
+    "ingredients": [
+      "FSC European Beechwood",
+      "Natural Boar Bristle",
+      "Cushioned Natural Rubber Pad",
+      "Rounded Steel Pins"
+    ],
+    "nutrition": {
+      "crudeProtein": "N/A",
+      "crudeFat": "N/A",
+      "crudeFiber": "N/A",
+      "moisture": "N/A"
+    },
+    "features": [
+      "Dual-sided pin and natural bristle head",
+      "Anti-static natural rubber cushion",
+      "Solid oiled beechwood grip"
+    ],
+    "benefits": [
+      "Gently untangles undercoat without scratching skin",
+      "Brings out luminous natural coat sheen",
+      "Turns daily grooming into a bonding ritual"
+    ],
+    "tags": ["Grooming Tool", "Beechwood", "Boar Bristle", "Durable"],
+    "featured": false,
+    "popular": false,
+    "new": true,
+    "availability": "in-stock",
+    "stockStatus": "In Stock",
+    "subscriptionEligible": false,
+    "reorderEligible": true,
+    "subscriptionDiscount": 0,
+    "reorderDiscount": 5,
+    "frequencyOptions": [],
+    "minimumQuantity": 1,
+    "maximumQuantity": 4,
+    "relatedProducts": ["prod-botanical-grooming-shampoo"]
+  },
+  {
+    "id": "prod-pine-cedar-cat-litter",
+    "slug": "pacific-fir-cedar-natural-clumping-cat-litter",
+    "name": "Pacific Douglas Fir & Red Cedar Natural Clumping Litter",
+    "brand": "Rowan & Hound Feline",
+    "category": "cat-food",
+    "petType": "cats",
+    "productType": "cat-litter",
+    "shortDescription": "Sustainably reclaimed Pacific Northwest timber shavings naturally bonded for fast clumping and continuous pine forest odor control.",
+    "description": "Crafted entirely from reclaimed Douglas fir and Western red cedar byproducts. The natural plant starches create firm, non-stick clumps that scoop cleanly without silica dust clouds. Breathable, flushable in septic-safe systems, and 100% biodegradable.",
+    "price": 26.5,
+    "compareAtPrice": 29.0,
+    "currency": "USD",
+    "images": [
+      "/src/assets/images/cat_editorial_nutrition_1790398228501.jpg"
+    ],
+    "thumbnail": "/src/assets/images/cat_editorial_nutrition_1790398228501.jpg",
+    "gallery": [
+      "/src/assets/images/cat_editorial_nutrition_1790398228501.jpg"
+    ],
+    "sizes": ["18 lb Recyclable Sack"],
+    "flavors": ["Natural Douglas Fir & Cedar"],
+    "weight": "18.0 lbs",
+    "ingredients": [
+      "Reclaimed Douglas Fir Fibers",
+      "Western Red Cedar Shavings",
+      "Natural Plant Starch Clumping Matrix"
+    ],
+    "nutrition": {
+      "crudeProtein": "N/A",
+      "crudeFat": "N/A",
+      "crudeFiber": "N/A",
+      "moisture": "N/A"
+    },
+    "features": [
+      "99.9% dust-free respiratory protection",
+      "Natural wood tannins neutralize ammonia immediately",
+      "Soft paw feel without clay tracking"
+    ],
+    "benefits": [
+      "Safe for kittens and post-surgery paws",
+      "Naturally traps odor without synthetic perfume masks",
+      "Lightweight compared to heavy bentonite clay"
+    ],
+    "tags": ["Natural Litter", "Dust-Free", "Biodegradable", "Odor Control"],
+    "featured": false,
+    "popular": true,
+    "new": true,
+    "availability": "in-stock",
+    "stockStatus": "In Stock",
+    "subscriptionEligible": true,
+    "reorderEligible": true,
+    "subscriptionDiscount": 10,
+    "reorderDiscount": 5,
+    "frequencyOptions": ["2-weeks", "4-weeks", "6-weeks", "8-weeks"],
+    "minimumQuantity": 1,
+    "maximumQuantity": 6,
+    "relatedProducts": ["prod-turkey-bone-broth-cat"]
+  },
+  {
+    "id": "prod-applewood-herbal-chews",
+    "slug": "orchard-applewood-herb-meadow-forage-sticks",
+    "name": "Orchard Applewood & Herb Meadow Forage Sticks",
+    "brand": "Willamette Valley Forage Co.",
+    "category": "treats",
+    "petType": "small-pets",
+    "productType": "small-pet-chews",
+    "shortDescription": "Unsprayed Oregon apple orchard branches wrapped in dried dandelion and meadow blossoms for dental exercise.",
+    "description": "Hand-pruned from unsprayed heritage apple orchards in Hood River, Oregon. Kiln-dried to perfection and hand-wrapped with organic meadow grasses, calendula, and dried dandelion root to satisfy instinctual gnawing.",
+    "price": 14.5,
+    "compareAtPrice": 16.0,
+    "currency": "USD",
+    "images": [
+      "/src/assets/images/product_yak_chews_1790396050313.jpg"
+    ],
+    "thumbnail": "/src/assets/images/product_yak_chews_1790396050313.jpg",
+    "gallery": [
+      "/src/assets/images/product_yak_chews_1790396050313.jpg"
+    ],
+    "sizes": ["12-Stick Meadow Bundle"],
+    "flavors": ["Sun-Cured Applewood & Dandelion"],
+    "weight": "0.3 lbs",
+    "ingredients": [
+      "Natural Kiln-Dried Applewood",
+      "Organic Dandelion Leaf",
+      "Calendula Petals",
+      "Organic Meadow Timothy Grass"
+    ],
+    "nutrition": {
+      "crudeProtein": "4.0% min",
+      "crudeFat": "0.8% min",
+      "crudeFiber": "42.0% max",
+      "moisture": "8.0% max"
+    },
+    "features": [
+      "Unsprayed pesticide-free orchard wood",
+      "Enriched with botanical herb wraps",
+      "Crucial incisor dental maintenance"
+    ],
+    "benefits": [
+      "Natural dental wear prevents overgrown incisors",
+      "Alleviates cage boredom in rabbits and chinchillas",
+      "Zero artificial glues, sugar binders, or dyes"
+    ],
+    "tags": ["Dental Chew", "Small Animal", "Rabbit", "Unsprayed Applewood"],
+    "featured": false,
+    "popular": false,
+    "new": true,
+    "availability": "in-stock",
+    "stockStatus": "In Stock",
+    "subscriptionEligible": true,
+    "reorderEligible": true,
+    "subscriptionDiscount": 10,
+    "reorderDiscount": 5,
+    "frequencyOptions": ["4-weeks", "6-weeks", "8-weeks"],
+    "minimumQuantity": 1,
+    "maximumQuantity": 8,
+    "relatedProducts": ["prod-timothy-hay-box"]
+  }
+]

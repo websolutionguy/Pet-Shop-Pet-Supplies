@@ -1,0 +1,35 @@
+[
+  {
+    "id": "promo-autoship10",
+    "code": "AUTOSHIP10",
+    "title": "Continuous 10% Auto-Ship Savings",
+    "description": "Automatically applied to all recurring replenishment orders without lock-in.",
+    "discountType": "percentage",
+    "discountValue": 10,
+    "appliesTo": "subscriptions",
+    "minimumOrderAmount": 0,
+    "active": true
+  },
+  {
+    "id": "promo-freeship49",
+    "code": "FREESHIP49",
+    "title": "Complimentary Regional Delivery",
+    "description": "Free courier delivery on all orders or recurring cycles over $49.",
+    "discountType": "free-shipping",
+    "discountValue": 5.95,
+    "appliesTo": "all",
+    "minimumOrderAmount": 49.0,
+    "active": true
+  },
+  {
+    "id": "promo-bundle12",
+    "code": "BUNDLE12",
+    "title": "Pack & Save Multi-Item Routine",
+    "description": "Additional 2% off when pairing dry kibble with daily omega oil.",
+    "discountType": "percentage",
+    "discountValue": 12,
+    "appliesTo": "bundles",
+    "minimumOrderAmount": 75.0,
+    "active": true
+  }
+]

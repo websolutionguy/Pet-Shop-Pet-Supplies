@@ -1,0 +1,44 @@
+[
+  {
+    "id": "brand-rh-reserve",
+    "slug": "rowan-hound-reserve",
+    "name": "Rowan & Hound Reserve",
+    "origin": "Carlton, OR",
+    "description": "Our in-house flagship small-batch foodery. Baked in 800-lb kettle runs every three weeks from Pacific Northwest single-source proteins."
+  },
+  {
+    "id": "brand-rh-apothecary",
+    "slug": "rowan-hound-apothecary",
+    "name": "Rowan & Hound Apothecary",
+    "origin": "Portland, OR",
+    "description": "Therapeutic botanical supplements, cold-pressed wild salmon oil, and vet-crafted herbal calming chews."
+  },
+  {
+    "id": "brand-rh-provisions",
+    "slug": "rowan-hound-provisions",
+    "name": "Rowan & Hound Provisions",
+    "origin": "Himalayan Region & Oregon",
+    "description": "Sun-cured Himalayan yak cheese chews and single-ingredient raw freeze-dried training morsels."
+  },
+  {
+    "id": "brand-rh-workshop",
+    "slug": "rowan-hound-workshop",
+    "name": "Rowan & Hound Workshop",
+    "origin": "Seattle, WA",
+    "description": "Hand-stitched waxed canvas goods, Wickett & Craig bridle leather gear, and sand-cast brass hardware."
+  },
+  {
+    "id": "brand-willamette-valley-hay",
+    "slug": "willamette-valley-hay",
+    "name": "Willamette Valley Forage Co.",
+    "origin": "Corvallis, OR",
+    "description": "First and second-cut high-fiber Western Timothy hay, hand-sorted and packaged in breathable kraft boxes."
+  },
+  {
+    "id": "brand-cascade-aquatics",
+    "slug": "cascade-aquatics",
+    "name": "Cascade Natural Aquatics",
+    "origin": "Hood River, OR",
+    "description": "Cold-extruded spirulina flakes, freeze-dried Antarctic krill, and natural mineral-rich bio-conditioners."
+  }
+]

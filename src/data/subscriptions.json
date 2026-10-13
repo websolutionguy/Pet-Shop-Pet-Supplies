@@ -1,0 +1,53 @@
+[
+  {
+    "id": "sub-barnaby-monthly",
+    "customerId": "cust-eleanor-vance",
+    "status": "active",
+    "cadence": "4-weeks",
+    "nextShipmentDate": "2026-10-06",
+    "lastShipmentDate": "2026-09-08",
+    "items": [
+      {
+        "id": "sub-item-1",
+        "subscriptionId": "sub-barnaby-monthly",
+        "productId": "prod-venison-ancient-grains",
+        "productName": "Heritage Venison & Ancient Spelt Dry Kibble",
+        "variantId": "var-venison-14lb",
+        "variantName": "14 lb Standard Bag",
+        "quantity": 1,
+        "unitPrice": 68.0,
+        "discountedPrice": 61.2,
+        "petName": "Barnaby"
+      },
+      {
+        "id": "sub-item-2",
+        "subscriptionId": "sub-barnaby-monthly",
+        "productId": "prod-himalayan-yak-chews",
+        "productName": "Artisanal Himalayan Yak Cheese Hard Chews",
+        "variantId": "var-yak-med",
+        "variantName": "Medium Chew 3-Pack",
+        "quantity": 1,
+        "unitPrice": 19.5,
+        "discountedPrice": 17.55,
+        "petName": "Barnaby"
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Eleanor Vance",
+      "streetLine1": "2841 NW Cumberland Rd",
+      "streetLine2": "Apt 4B",
+      "city": "Portland",
+      "state": "OR",
+      "postalCode": "97210",
+      "country": "United States",
+      "phone": "(503) 555-0192"
+    },
+    "paymentMethodLast4": "4819",
+    "cycleSubtotal": 87.5,
+    "cycleDiscount": 8.75,
+    "cycleTotal": 78.75,
+    "canSkipNext": true,
+    "canChangeCadence": true,
+    "createdDate": "2024-02-14"
+  }
+]

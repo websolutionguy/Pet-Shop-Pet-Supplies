@@ -1,0 +1,47 @@
+[
+  {
+    "id": "2-weeks",
+    "name": "Every 2 weeks",
+    "frequencyLabel": "Every 2 Weeks",
+    "shortLabel": "2 wks",
+    "intervalDays": 14,
+    "description": "High-intake multi-pet households or large working dogs",
+    "popular": false
+  },
+  {
+    "id": "4-weeks",
+    "name": "Every 4 weeks",
+    "frequencyLabel": "Every 4 Weeks",
+    "shortLabel": "4 wks",
+    "intervalDays": 28,
+    "description": "Standard monthly replenishment (Recommended for most pets)",
+    "popular": true
+  },
+  {
+    "id": "6-weeks",
+    "name": "Every 6 weeks",
+    "frequencyLabel": "Every 6 Weeks",
+    "shortLabel": "6 wks",
+    "intervalDays": 42,
+    "description": "Medium breeds, rotation diet feeders, and moderate treat consumers",
+    "popular": false
+  },
+  {
+    "id": "8-weeks",
+    "name": "Every 8 weeks",
+    "frequencyLabel": "Every 8 Weeks",
+    "shortLabel": "8 wks",
+    "intervalDays": 56,
+    "description": "Small dogs, feline dry rotation, or long-lasting oil supplements",
+    "popular": false
+  },
+  {
+    "id": "12-weeks",
+    "name": "Every 12 weeks",
+    "frequencyLabel": "Every 12 Weeks",
+    "shortLabel": "12 wks",
+    "intervalDays": 84,
+    "description": "Quarterly replenishment for grooming essentials, hay cartons, or multi-packs",
+    "popular": false
+  }
+]

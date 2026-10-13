@@ -1,0 +1,34 @@
+[
+  {
+    "id": "addon-duck-sample",
+    "name": "Duck Liver Training Morsel Trial Pouch (1 oz)",
+    "price": 4.5,
+    "category": "treats",
+    "petType": "dogs",
+    "description": "Add a pocket-sized training pouch to your upcoming box."
+  },
+  {
+    "id": "addon-dental-brush",
+    "name": "Soft Bamboo & Silicone Finger Toothbrush (2-Pack)",
+    "price": 6.0,
+    "category": "grooming",
+    "petType": "dogs",
+    "description": "Ergonomic dual-sided slip-on brush for plaque maintenance."
+  },
+  {
+    "id": "addon-organic-catnip",
+    "name": "Pacific Northwest Organic Leaf & Flower Catnip (0.5 oz)",
+    "price": 5.0,
+    "category": "treats",
+    "petType": "cats",
+    "description": "High-potency fragrant mountain catnip harvested in small pouches."
+  },
+  {
+    "id": "addon-poop-bags",
+    "name": "Cornstarch Certified Home-Compostable Waste Bags (4 Rolls)",
+    "price": 7.5,
+    "category": "cleaning",
+    "petType": "dogs",
+    "description": "Vegetable-based 100% leak-proof zero-plastic waste bags."
+  }
+]

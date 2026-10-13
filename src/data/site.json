@@ -1,0 +1,34 @@
+{
+  "name": "Rowan & Hound Supply Co.",
+  "tagline": "Independent Pet Nutrition & Thoughtful Provisions",
+  "domain": "rowanandhound.com",
+  "contactEmail": "care@rowanandhound.com",
+  "supportPhone": "(503) 555-0188",
+  "address": {
+    "street": "142 Market St",
+    "city": "Portland",
+    "state": "OR",
+    "postalCode": "97201",
+    "country": "United States"
+  },
+  "hours": {
+    "monday_friday": "9:00 AM – 7:00 PM PST",
+    "saturday": "9:00 AM – 6:00 PM PST",
+    "sunday": "10:00 AM – 5:00 PM PST"
+  },
+  "socialLinks": {
+    "instagram": "https://instagram.com/rowanandhound",
+    "facebook": "https://facebook.com/rowanandhound"
+  },
+  "meta": {
+    "title": "Rowan & Hound Pet Supply Co. | Independent Pet Nutrition & Auto-Ship",
+    "description": "Independent pet nutrition, provisions, and flexible routine auto-ship subscriptions for dogs, cats, small pets, birds, and fish."
+  },
+  "features": {
+    "autoShipDiscountPercentage": 10,
+    "freeShippingThreshold": 49.0,
+    "flatShippingFee": 5.95,
+    "localDeliveryEnabled": true,
+    "localDeliveryRadiusMiles": 25
+  }
+}

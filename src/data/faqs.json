@@ -1,0 +1,152 @@
+[
+  {
+    "id": "faq-sub-1",
+    "category": "Subscriptions",
+    "question": "Can I change my subscription?",
+    "answer": "Yes, absolutely. You have complete flexibility over your subscription routine. At any time from your member account at /account/subscriptions, you can change your delivery interval (cadence), alter package quantities, swap to an alternative recipe, or adjust your shipping address. Any changes saved take effect immediately on your upcoming dispatch cycle."
+  },
+  {
+    "id": "faq-sub-2",
+    "category": "Subscriptions",
+    "question": "Can I skip a delivery?",
+    "answer": "Yes, with a single click and zero penalties. If your pantry is still stocked, or you are traveling on a trail expedition, select 'Skip Next Delivery' in your account. Your next scheduled shipment date advances forward by one full cadence interval, and no charge is processed."
+  },
+  {
+    "id": "faq-sub-3",
+    "category": "Subscriptions",
+    "question": "Can I cancel?",
+    "answer": "Yes, at any time without restriction. We enforce a strict 0 minimum cycle policy. You can cancel your subscription directly online in /account/subscriptions with no phone calls, retention obstacles, or cancellation fees. You can also choose to pause your deliveries indefinitely if you plan to return later."
+  },
+  {
+    "id": "faq-sub-4",
+    "category": "Subscriptions",
+    "question": "Can I change the quantity?",
+    "answer": "Yes. From your active routines in /account/subscriptions, you can increase or decrease the quantity of any enclosed provision using simple plus and minus controls. Your per-cycle subtotal and 10% auto-ship savings update in real time."
+  },
+  {
+    "id": "faq-sub-5",
+    "category": "Subscriptions",
+    "question": "Can I change products?",
+    "answer": "Yes. If your companion needs to transition from Heritage Venison to Pacific Salmon or rotate treat textures, click 'Swap Recipe' on your active subscription card. You can seamlessly replace any item with an equivalent eligible provision from our pantry catalog without having to cancel and recreate your routine."
+  },
+  {
+    "id": "faq-sub-6",
+    "category": "Subscriptions",
+    "question": "How often can I receive products?",
+    "answer": "You can select from five calibrated intervals: Every 2 weeks (14 days), Every 4 weeks (28 days), Every 6 weeks (42 days), Every 8 weeks (56 days), or Every 12 weeks (84 days). Most companion households follow the 4-week cadence, which is paced so your fresh small-batch order arrives 48 hours before the previous bag is finished."
+  },
+  {
+    "id": "faq-sub-7",
+    "category": "Subscriptions",
+    "question": "What happens if an item becomes unavailable?",
+    "answer": "Because we roast in small kettle batches rather than holding warehouse surplus, occasional seasonal ingredient constraints can arise. If a subscribed formula is temporarily delayed, we alert you via email 5 days prior to your dispatch date. We offer the choice to substitute with a compatible single-protein formula at an equal or lower price, delay dispatch by one week, or skip the cycle with no charge."
+  },
+  {
+    "id": "faq-ord-1",
+    "category": "Orders",
+    "question": "How do I track my order status?",
+    "answer": "Once dispatched from our Portland packaging depot, you will receive an email containing carrier tracking details. You can also check real-time fulfillment and transit milestones anytime in your member dashboard under /account/orders."
+  },
+  {
+    "id": "faq-ord-2",
+    "category": "Orders",
+    "question": "Can I modify an order after it has been placed?",
+    "answer": "For one-time orders, modifications or address updates can be made within a 2-hour grace period before fulfillment queue processing begins. For auto-ship subscriptions, you can adjust orders anytime up until 48 hours before the scheduled dispatch date."
+  },
+  {
+    "id": "faq-ord-3",
+    "category": "Orders",
+    "question": "Where can I find itemized invoices and receipts?",
+    "answer": "Digital receipts are emailed immediately upon checkout and remain permanently archived under /account/orders. You can review tax breakdowns, discounts, and dispatch addresses at any time."
+  },
+  {
+    "id": "faq-reord-1",
+    "category": "Reorders",
+    "question": "How does 1-click reorder differ from auto-ship subscriptions?",
+    "answer": "Auto-ship is an automated recurring dispatch on a set cadence (e.g., every 4 weeks) with 10% continuous savings. On-demand reorder is manual: when you notice your jar running low, you click 'Reorder' in your pantry dashboard to buy past items in one click, receiving a 5% loyalty reorder discount within 90 days."
+  },
+  {
+    "id": "faq-reord-2",
+    "category": "Reorders",
+    "question": "Can I reorder individual items from a past multi-item basket?",
+    "answer": "Yes. In /reorder or /account/orders, each previously purchased item has its own 'Reorder Item' shortcut, allowing you to replenish only the specific kibble, chews, or oil you currently need."
+  },
+  {
+    "id": "faq-ship-1",
+    "category": "Shipping",
+    "question": "Where do you ship and what are carrier transit speeds?",
+    "answer": "We provide carbon-neutral regional courier shipping across the Pacific Northwest (Oregon, Washington, Idaho) arriving in 1 to 2 business days, as well as nationwide standard overland shipping arriving in 3 to 5 business days."
+  },
+  {
+    "id": "faq-ship-2",
+    "category": "Shipping",
+    "question": "What is the threshold for complimentary shipping?",
+    "answer": "All orders and subscription dispatches with a net subtotal of $49.00 or greater qualify for 100% complimentary courier shipping. Orders below $49 incur a flat $6.50 regional carrier fee."
+  },
+  {
+    "id": "faq-ship-3",
+    "category": "Shipping",
+    "question": "What packaging materials do you use?",
+    "answer": "We use 100% recyclable unbleached kraft corrugated cartons, plant-based water-activated paper tape, and biodegradable paper cushioning. We never use plastic bubble wrap, styrofoam peanuts, or synthetic air pillows."
+  },
+  {
+    "id": "faq-ret-1",
+    "category": "Returns",
+    "question": "What is your open-bag satisfaction policy?",
+    "answer": "We uphold an unconditional 30-day open-bag guarantee. If your companion is finicky or does not thrive on a new recipe, reach out to our team. We will issue a full refund or exchange for an alternative protein. Opened food is donated to local rescue partners in Portland."
+  },
+  {
+    "id": "faq-ret-2",
+    "category": "Returns",
+    "question": "How do returns work for unopened non-food gear?",
+    "answer": "Unused collars, leads, brushes, and accessories in original condition may be returned within 30 days for a full refund to your original payment method. Pre-paid return labels are provided upon request."
+  },
+  {
+    "id": "faq-prod-1",
+    "category": "Products",
+    "question": "What makes small-batch kettle baking different from industrial pet food?",
+    "answer": "Commercial kibble is extruded at extreme heat in multi-ton batches, sitting in storage distribution depots for up to 18 months where delicate fatty acids and probiotics degrade. Rowan & Hound bakes in modest 800-lb kettle runs every three weeks, ensuring living nutrients and rich natural aromas arrive fresh."
+  },
+  {
+    "id": "faq-prod-2",
+    "category": "Products",
+    "question": "Are your recipes poultry-free for allergic companions?",
+    "answer": "Yes. Our signature Heritage Venison and Wild Pacific Salmon formulas are completely free of chicken meal, turkey, poultry fat, and animal byproduct digest, making them safe for sensitive digestion and itchy coats."
+  },
+  {
+    "id": "faq-prod-3",
+    "category": "Products",
+    "question": "How do you verify ingredient sourcing and purity?",
+    "answer": "We source whole meat cuts from regenerative family ranches in the Pacific Northwest and wild-line fisheries in Alaska. Every kettle run undergoes third-party pathogen and nutritional analysis before release."
+  },
+  {
+    "id": "faq-pet-1",
+    "category": "Pet supplies",
+    "question": "What pet species do you cater to?",
+    "answer": "Our pantry is curated for dogs, cats, and small herbivores (rabbits, guinea pigs, and chinchillas). Each species has dedicated nutrition, long-fiber forages, and dental enrichment calibrated to their biological needs."
+  },
+  {
+    "id": "faq-pet-2",
+    "category": "Pet supplies",
+    "question": "Are toys and grooming accessories safe and non-toxic?",
+    "answer": "Yes. Our leather leads use natural vegetable vegetable tanning from Wickett & Craig, our grooming brushes are turned from FSC-certified European beechwood with natural boar bristles, and our small pet chews are unsprayed heritage orchard applewood."
+  },
+  {
+    "id": "faq-pay-1",
+    "category": "Payments",
+    "question": "What payment methods are accepted?",
+    "answer": "We accept all major credit and debit cards (Visa, Mastercard, American Express, Discover) as well as secure digital wallets like Apple Pay and Google Pay."
+  },
+  {
+    "id": "faq-pay-2",
+    "category": "Payments",
+    "question": "When is my card charged for auto-ship subscription orders?",
+    "answer": "Your payment method is charged on the morning of your scheduled dispatch date, exactly three days after your automated reminder notice is sent. You are never pre-billed weeks in advance."
+  },
+  {
+    "id": "faq-pay-3",
+    "category": "Payments",
+    "question": "How is sales tax calculated?",
+    "answer": "Sales tax is calculated based on destination delivery address regulations and applied strictly against your net discounted subtotal, ensuring you never pay tax on savings."
+  }
+]

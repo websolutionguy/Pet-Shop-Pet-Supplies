@@ -1,0 +1,52 @@
+[
+  {
+    "id": "dry-kibble",
+    "name": "Dry Kibble",
+    "description": "Slow-oven baked kibble with fresh meats and sprouted grains"
+  },
+  {
+    "id": "wet-food",
+    "name": "Wet & Bone Broth Entrees",
+    "description": "Slow-simmered hydration entrees packed in BPA-free cans"
+  },
+  {
+    "id": "raw-freeze-dried",
+    "name": "Raw Freeze-Dried",
+    "description": "Flash-frozen raw organ meats and single-protein toppers"
+  },
+  {
+    "id": "hard-chews",
+    "name": "Hard Chews",
+    "description": "Dense dental chews made from traditional smoked yak cheese"
+  },
+  {
+    "id": "liquid-supplements",
+    "name": "Liquid Supplements",
+    "description": "Amber-glass bottled oils with airtight dosage pumps"
+  },
+  {
+    "id": "soft-chew-supplements",
+    "name": "Soft Chew Supplements",
+    "description": "Cold-pressed botanical soft bites for stress and joint support"
+  },
+  {
+    "id": "hay-forage",
+    "name": "Hay & Forage",
+    "description": "Sun-cured long-stem hay for small herbivores"
+  },
+  {
+    "id": "aquatic-crisps",
+    "name": "Aquatic Crisps & Flakes",
+    "description": "Bio-active cold-processed flakes for freshwater fish"
+  },
+  {
+    "id": "leather-canvas-gear",
+    "name": "Leather & Canvas Gear",
+    "description": "Hand-stitched walking leads and outdoor provisions"
+  },
+  {
+    "id": "ceramic-stoneware",
+    "name": "Ceramic Stoneware",
+    "description": "Lead-free glazed heavy stoneware pet dishes"
+  }
+]

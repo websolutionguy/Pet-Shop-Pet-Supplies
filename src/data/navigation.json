@@ -1,0 +1,76 @@
+{
+  "mainMenu": [
+    {
+      "id": "nav-dogs",
+      "label": "Dogs",
+      "href": "/#catalog",
+      "petType": "dogs"
+    },
+    {
+      "id": "nav-cats",
+      "label": "Cats",
+      "href": "/#catalog",
+      "petType": "cats"
+    },
+    {
+      "id": "nav-small-pets",
+      "label": "Small Pets",
+      "href": "/#catalog",
+      "petType": "small-pets"
+    },
+    {
+      "id": "nav-birds",
+      "label": "Birds",
+      "href": "/#catalog",
+      "petType": "birds"
+    },
+    {
+      "id": "nav-fish",
+      "label": "Fish",
+      "href": "/#catalog",
+      "petType": "fish"
+    },
+    {
+      "id": "nav-subscriptions",
+      "label": "Auto-Ship & Save",
+      "href": "/#subscriptions",
+      "badge": "10% Off"
+    },
+    {
+      "id": "nav-sourcing",
+      "label": "Our Sourcing",
+      "href": "/#sourcing"
+    },
+    {
+      "id": "nav-reorder",
+      "label": "Quick Reorder",
+      "href": "/#reorder"
+    }
+  ],
+  "footerMenu": {
+    "provisions": [
+      { "label": "Canine Sprouted Kibble & Chews", "href": "/#catalog" },
+      { "label": "Feline Broth Entrees & Hydration", "href": "/#catalog" },
+      { "label": "Cold-Pressed Omega Oils", "href": "/#catalog" },
+      { "label": "Timothy Hay & Botanical Forage", "href": "/#catalog" },
+      { "label": "Waxed Canvas Leashes & Bowls", "href": "/#catalog" }
+    ],
+    "autoShipProgram": [
+      { "label": "10% Recurring Discount Policy", "href": "/#subscriptions" },
+      { "label": "Skip, Pause or Reschedule", "href": "/#reorder" },
+      { "label": "Pantry Scoop Calculator", "href": "/#reorder" },
+      { "label": "Free Local Delivery over $49", "href": "/#subscriptions" }
+    ],
+    "company": [
+      { "label": "Portland Storefront & Hours", "href": "/#sourcing" },
+      { "label": "Fresh-Batch Roasting Standards", "href": "/#sourcing" },
+      { "label": "Independent Merchant Pledge", "href": "/#sourcing" },
+      { "label": "Small-Batch lot records", "href": "/#sourcing" }
+    ],
+    "support": [
+      { "label": "Care Contact & Direct Phone", "href": "mailto:care@rowanandhound.com" },
+      { "label": "Dietary Sensitivity Help", "href": "mailto:nutrition@rowanandhound.com" },
+      { "label": "Delivery Schedule & Tracking", "href": "/#reorder" }
+    ]
+  }
+}

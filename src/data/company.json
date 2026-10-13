@@ -1,0 +1,36 @@
+{
+  "name": "Rowan & Hound Supply Co.",
+  "legalName": "Rowan & Hound Pet Provisions LLC",
+  "foundedYear": 2018,
+  "headquarters": "Portland, Oregon",
+  "founderStory": "Founded in 2018 by veterinary technicians and pet companions frustrated by industrial bulk pet food warehousing. Rowan & Hound partners directly with family ranches in the Pacific Northwest to roast nutrient-dense single-protein dry kibble, simmer hydration-rich bone broths, and cure whole milk yak chews in small 800-lb kettle batches every three weeks.",
+  "mission": "To nourish companion animals with clean, biologically appropriate ingredients while making routine replenishment practical, trustworthy, and stress-free.",
+  "values": [
+    {
+      "title": "Fresh-Batch Roasting",
+      "description": "Baking dry foods every 21 days so essential fatty acids and probiotics never degrade on warm warehouse shelves."
+    },
+    {
+      "title": "Transparent Single-Source Proteins",
+      "description": "Pasture-grazed venison, line-caught Alaskan sockeye, and cage-free heritage turkey with zero mystery meat meals."
+    },
+    {
+      "title": "Zero Rawhide Policy",
+      "description": "100% natural yak cheese and sun-cured marrow bones, free from chemical bleach, glue, or formaldehyde."
+    },
+    {
+      "title": "No-Trap Subscriptions",
+      "description": "Recurring auto-ship with guaranteed 10% savings, full flexibility to skip or pause in one click, and zero lock-in."
+    }
+  ],
+  "facilities": [
+    {
+      "name": "Portland Storefront & Apothecary",
+      "address": "142 Market St, Portland, OR 97201"
+    },
+    {
+      "name": "Willamette Valley Small-Batch Kitchen",
+      "address": "Carlton, Yamhill County, OR 97111"
+    }
+  ]
+}

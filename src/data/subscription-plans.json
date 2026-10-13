@@ -1,0 +1,152 @@
+[
+  {
+    "id": "subplan-venison-2w",
+    "productId": "prod-venison-ancient-grains",
+    "frequency": "2-weeks",
+    "frequencyLabel": "Every 2 Weeks",
+    "discountPercentage": 10,
+    "active": true,
+    "minimumQuantity": 1,
+    "maximumQuantity": 6
+  },
+  {
+    "id": "subplan-venison-4w",
+    "productId": "prod-venison-ancient-grains",
+    "frequency": "4-weeks",
+    "frequencyLabel": "Every 4 Weeks",
+    "discountPercentage": 10,
+    "active": true,
+    "minimumQuantity": 1,
+    "maximumQuantity": 6
+  },
+  {
+    "id": "subplan-venison-6w",
+    "productId": "prod-venison-ancient-grains",
+    "frequency": "6-weeks",
+    "frequencyLabel": "Every 6 Weeks",
+    "discountPercentage": 10,
+    "active": true,
+    "minimumQuantity": 1,
+    "maximumQuantity": 6
+  },
+  {
+    "id": "subplan-venison-8w",
+    "productId": "prod-venison-ancient-grains",
+    "frequency": "8-weeks",
+    "frequencyLabel": "Every 8 Weeks",
+    "discountPercentage": 10,
+    "active": true,
+    "minimumQuantity": 1,
+    "maximumQuantity": 6
+  },
+  {
+    "id": "subplan-salmon-4w",
+    "productId": "prod-salmon-oil-omega",
+    "frequency": "4-weeks",
+    "frequencyLabel": "Every 4 Weeks",
+    "discountPercentage": 10,
+    "active": true,
+    "minimumQuantity": 1,
+    "maximumQuantity": 8
+  },
+  {
+    "id": "subplan-salmon-6w",
+    "productId": "prod-salmon-oil-omega",
+    "frequency": "6-weeks",
+    "frequencyLabel": "Every 6 Weeks",
+    "discountPercentage": 10,
+    "active": true,
+    "minimumQuantity": 1,
+    "maximumQuantity": 8
+  },
+  {
+    "id": "subplan-salmon-8w",
+    "productId": "prod-salmon-oil-omega",
+    "frequency": "8-weeks",
+    "frequencyLabel": "Every 8 Weeks",
+    "discountPercentage": 10,
+    "active": true,
+    "minimumQuantity": 1,
+    "maximumQuantity": 8
+  },
+  {
+    "id": "subplan-salmon-12w",
+    "productId": "prod-salmon-oil-omega",
+    "frequency": "12-weeks",
+    "frequencyLabel": "Every 12 Weeks",
+    "discountPercentage": 10,
+    "active": true,
+    "minimumQuantity": 1,
+    "maximumQuantity": 8
+  },
+  {
+    "id": "subplan-yak-2w",
+    "productId": "prod-himalayan-yak-chews",
+    "frequency": "2-weeks",
+    "frequencyLabel": "Every 2 Weeks",
+    "discountPercentage": 10,
+    "active": true,
+    "minimumQuantity": 1,
+    "maximumQuantity": 10
+  },
+  {
+    "id": "subplan-yak-4w",
+    "productId": "prod-himalayan-yak-chews",
+    "frequency": "4-weeks",
+    "frequencyLabel": "Every 4 Weeks",
+    "discountPercentage": 10,
+    "active": true,
+    "minimumQuantity": 1,
+    "maximumQuantity": 10
+  },
+  {
+    "id": "subplan-yak-6w",
+    "productId": "prod-himalayan-yak-chews",
+    "frequency": "6-weeks",
+    "frequencyLabel": "Every 6 Weeks",
+    "discountPercentage": 10,
+    "active": true,
+    "minimumQuantity": 1,
+    "maximumQuantity": 10
+  },
+  {
+    "id": "subplan-turkey-4w",
+    "productId": "prod-turkey-bone-broth-cat",
+    "frequency": "4-weeks",
+    "frequencyLabel": "Every 4 Weeks",
+    "discountPercentage": 10,
+    "active": true,
+    "minimumQuantity": 1,
+    "maximumQuantity": 10
+  },
+  {
+    "id": "subplan-duck-4w",
+    "productId": "prod-duck-liver-training-treats",
+    "frequency": "4-weeks",
+    "frequencyLabel": "Every 4 Weeks",
+    "discountPercentage": 10,
+    "active": true,
+    "minimumQuantity": 1,
+    "maximumQuantity": 12
+  },
+  {
+    "id": "subplan-calm-6w",
+    "productId": "prod-chamomile-calming-bites",
+    "frequency": "6-weeks",
+    "frequencyLabel": "Every 6 Weeks",
+    "discountPercentage": 10,
+    "active": true,
+    "minimumQuantity": 1,
+    "maximumQuantity": 6
+  },
+  {
+    "id": "subplan-hay-4w",
+    "productId": "prod-timothy-hay-box",
+    "frequency": "4-weeks",
+    "frequencyLabel": "Every 4 Weeks",
+    "discountPercentage": 10,
+    "active": true,
+    "minimumQuantity": 1,
+    "maximumQuantity": 4
+  }
+]

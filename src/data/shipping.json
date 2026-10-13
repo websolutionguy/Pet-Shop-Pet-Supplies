@@ -1,0 +1,32 @@
+{
+  "carriers": [
+    {
+      "id": "local-courier",
+      "name": "Portland Metro Eco Courier (Electric Cargo Van)",
+      "serviceArea": "Multnomah, Washington, and Clackamas Counties (OR)",
+      "estimatedDays": "1-2 Business Days",
+      "cost": 5.95,
+      "freeThreshold": 49.0
+    },
+    {
+      "id": "regional-priority",
+      "name": "Pacific Northwest Regional Ground",
+      "serviceArea": "OR, WA, ID, Northern CA",
+      "estimatedDays": "2-3 Business Days",
+      "cost": 6.95,
+      "freeThreshold": 49.0
+    },
+    {
+      "id": "standard-national",
+      "name": "Carbon-Neutral National Ground",
+      "serviceArea": "Contiguous United States",
+      "estimatedDays": "3-5 Business Days",
+      "cost": 8.95,
+      "freeThreshold": 69.0
+    }
+  ],
+  "defaultCourierFee": 5.95,
+  "freeShippingThreshold": 49.0,
+  "packagingMaterials": "100% Post-consumer recycled corrugated kraft boxes and biodegradable paper tape.",
+  "sameDayCutoffHourPST": 13
+}

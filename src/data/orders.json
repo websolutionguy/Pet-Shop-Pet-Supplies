@@ -1,0 +1,89 @@
+[
+  {
+    "id": "ord-10948",
+    "orderNumber": "RH-10948",
+    "customerId": "cust-eleanor-vance",
+    "placedAt": "2026-09-08T10:14:00Z",
+    "status": "delivered",
+    "items": [
+      {
+        "id": "item-ord-1",
+        "productId": "prod-venison-ancient-grains",
+        "productName": "Heritage Venison & Ancient Spelt Dry Kibble",
+        "variantName": "14 lb Standard Bag",
+        "quantity": 1,
+        "unitPrice": 61.2,
+        "isSubscription": true,
+        "cadence": "4-weeks",
+        "targetPetName": "Barnaby"
+      },
+      {
+        "id": "item-ord-2",
+        "productId": "prod-himalayan-yak-chews",
+        "productName": "Artisanal Himalayan Yak Cheese Hard Chews",
+        "variantName": "Medium Chew 3-Pack",
+        "quantity": 1,
+        "unitPrice": 17.55,
+        "isSubscription": true,
+        "cadence": "4-weeks",
+        "targetPetName": "Barnaby"
+      }
+    ],
+    "subtotal": 87.5,
+    "discount": 8.75,
+    "shipping": 0.0,
+    "tax": 5.9,
+    "total": 84.65,
+    "shippingAddress": {
+      "fullName": "Eleanor Vance",
+      "streetLine1": "2841 NW Cumberland Rd",
+      "streetLine2": "Apt 4B",
+      "city": "Portland",
+      "state": "OR",
+      "postalCode": "97210",
+      "country": "United States",
+      "phone": "(503) 555-0192"
+    },
+    "carrier": "Local Eco Courier",
+    "trackingNumber": "RH-PDX-882194",
+    "isSubscriptionRenewal": true,
+    "parentSubscriptionId": "sub-barnaby-monthly"
+  },
+  {
+    "id": "ord-10812",
+    "orderNumber": "RH-10812",
+    "customerId": "cust-eleanor-vance",
+    "placedAt": "2026-08-11T14:22:00Z",
+    "status": "delivered",
+    "items": [
+      {
+        "id": "item-ord-3",
+        "productId": "prod-salmon-oil-omega",
+        "productName": "Cold-Pressed Wild Alaskan Salmon Oil",
+        "variantName": "16 oz Family Pump",
+        "quantity": 1,
+        "unitPrice": 38.0,
+        "isSubscription": false,
+        "targetPetName": "Barnaby & Milo"
+      }
+    ],
+    "subtotal": 38.0,
+    "discount": 0.0,
+    "shipping": 5.95,
+    "tax": 3.3,
+    "total": 47.25,
+    "shippingAddress": {
+      "fullName": "Eleanor Vance",
+      "streetLine1": "2841 NW Cumberland Rd",
+      "streetLine2": "Apt 4B",
+      "city": "Portland",
+      "state": "OR",
+      "postalCode": "97210",
+      "country": "United States",
+      "phone": "(503) 555-0192"
+    },
+    "carrier": "USPS Priority",
+    "trackingNumber": "940011189956481194200",
+    "isSubscriptionRenewal": false
+  }
+]

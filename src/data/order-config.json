@@ -1,0 +1,17 @@
+{
+  "orderNumberPrefix": "RH-",
+  "orderNumberMin": 10000,
+  "orderNumberMax": 99999,
+  "currency": "USD",
+  "allowedPaymentMethods": [
+    "credit-card",
+    "apple-pay",
+    "google-pay",
+    "shop-pay"
+  ],
+  "guestCheckoutAllowed": true,
+  "defaultProcessingTimeHours": 24,
+  "cancellationGracePeriodHours": 6,
+  "dispatchNotificationMethods": ["email", "sms"],
+  "returnPolicyDays": 30
+}

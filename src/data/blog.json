@@ -1,0 +1,226 @@
+[
+  {
+    "id": "blog-dog-feeding-routine",
+    "slug": "how-to-build-a-consistent-dog-feeding-routine",
+    "title": "How to Build a Consistent Dog Feeding Routine",
+    "subtitle": "Calibrating caloric density, digestion windows, and hydration pacing for energetic working and house companions.",
+    "category": "Dog Care",
+    "excerpt": "A predictable feeding schedule stabilizes canine blood glucose, improves nutrient absorption, and sets predictable elimination rhythms. Here is how to construct a daily feeding framework tailored to your dog's metabolism.",
+    "author": {
+      "name": "Dr. Sarah Chen, DVM",
+      "role": "Veterinary Nutrition Advisor"
+    },
+    "publishedDate": "2026-09-20",
+    "readTimeMinutes": 7,
+    "tags": ["Dog Care", "Pet Routines", "Nutrition", "Canine Health"],
+    "featured": true,
+    "heroImage": "/src/assets/images/hero_dog_natural_1790396014202.jpg",
+    "relatedProductIds": [
+      "prod-venison-ancient-grains",
+      "prod-salmon-oil-omega"
+    ],
+    "takeaways": [
+      "Maintain a 12-hour interval between morning and evening meals to optimize digestive enzyme replenishment.",
+      "Eliminate free-choice grazing: open kibble oxidizes rapidly under room ambient heat and masks subtle loss-of-appetite symptoms.",
+      "Incorporate unoxidized marine lipids or warm bone broth directly into dry food two minutes before serving to enhance palatability.",
+      "Schedule high-energy exercise at least 60 minutes before or 90 minutes after eating to reduce gastric distress."
+    ],
+    "content": "A dog's gastrointestinal tract thrives on biological rhythm. Unlike human digestion, which relies on varied meal structures throughout the day, the canine gut functions most efficiently when digestive enzymes, stomach acid secretions, and bile acids are stimulated at predictable intervals.\n\n### The Problem with Free-Choice Grazing\n\nMany pet guardians leave kibble in the bowl all day, assuming dogs will regulate their intake. However, free-choice feeding introduces several critical challenges. First, fats sprayed onto extruded kibble begin auto-oxidizing the moment the bag is opened and exposed to room air, turning beneficial lipids rancid over 8 to 12 hours. Second, constant grazing keeps the pancreas in an unending digestive state without allowing the migrating motor complex (MMC) to sweep residual waste through the intestines. Third, when a dog grazes continuously, guardians frequently fail to notice subtle early indicators of illness, dental pain, or digestive blockage that present as sudden food refusal.\n\n### Setting the 12-Hour Circadian Schedule\n\nFor adult canines, dividing the daily caloric allocation into two equal portions spaced 10 to 12 hours apart provides optimal metabolic balance. A morning feed at 7:30 AM followed by an evening meal around 6:30 or 7:00 PM matches natural cortisol and melatonin cycles.\n\nAlways position vigorous physical activities—such as trail hikes, agility sessions, or ball retrieval—at least one hour before feeding or ninety minutes after meals. Exercising immediately after a large meal increases the risk of gastric dilatation-volvulus (GDV), particularly in deep-chested breeds like German Shepherds, Retrievers, and Pointers.\n\n### Incorporating Biological Moisture\n\nDry kibble typically contains less than 10% moisture. In the wild, canines consume prey containing 70% to 75% water. Adding a splash of slow-simmered bone broth or a nitrogen-protected pump of cold-pressed wild salmon oil immediately before serving restores aromatic volatility and lubricates the esophageal passage.\n\nEnsure that the liquid is lukewarm rather than hot, as excessive temperatures can deactivate delicate probiotics and denature heat-sensitive vitamins added during small-batch packaging."
+  },
+  {
+    "id": "blog-cat-litter-frequency",
+    "slug": "how-often-should-you-replace-cat-litter",
+    "title": "How Often Should You Replace Cat Litter?",
+    "subtitle": "The biology of feline olfactory sensitivity, timber clumping science, and non-toxic hygiene intervals.",
+    "category": "Cat Care",
+    "excerpt": "A feline nose possesses 200 million olfactory receptors. Discover how often to scoop, top off, and completely dump litter trays to prevent silent avoidance behaviors and respiratory irritation.",
+    "author": {
+      "name": "Eleanor Vance",
+      "role": "Feline Wellness Coordinator"
+    },
+    "publishedDate": "2026-09-15",
+    "readTimeMinutes": 6,
+    "tags": ["Cat Care", "Pet Supplies", "Pet Routines", "Hygiene"],
+    "featured": false,
+    "heroImage": "/src/assets/images/cat_editorial_nutrition_1790398228501.jpg",
+    "relatedProductIds": [
+      "prod-pine-cedar-cat-litter",
+      "prod-turkey-bone-broth-cat"
+    ],
+    "takeaways": [
+      "Scoop clumps and solids at least once every 12 hours; feline olfaction detects ammonia long before human senses notice.",
+      "Maintain a uniform bed depth of 2.5 to 3 inches; inadequate depth causes urine to pool and weld against the plastic bottom.",
+      "For natural timber litters, a full box dump and wash is required every 3 to 4 weeks, compared to weekly dumps for non-clumping clays.",
+      "Avoid harsh chemical bleaches or scented citrus cleansers when washing trays, as residual scents provoke box refusal."
+    ],
+    "content": "Cats are fastidious desert creatures whose evolutionary survival depended on concealing waste from predators while preserving personal hygiene. When a cat begins urinating outside the litter box, the root cause is overwhelmingly behavioral discomfort related to tray maintenance, box geometry, or abrasive chemical perfumes.\n\n### Understanding Feline Olfactory Sensitivity\n\nWhile human noses contain roughly 5 million scent receptors, cats possess more than 200 million, supplemented by the vomeronasal (Jacobson's) organ on the roof of the mouth. When commercial litters use artificial floral or lavender perfumes to mask ammonia, the experience for a cat entering an enclosed plastic box is comparable to a human standing inside a perfume cloud filled with eye-stinging vapor.\n\nNatural timber litters—such as reclaimed Pacific Northwest Douglas fir and Western red cedar—neutralize ammonia organically through natural wood tannins without releasing synthetic fragrances or airborne crystalline silica dust.\n\n### The Daily Scooping vs. Complete Dump Schedule\n\n1. **Twice-Daily Clump Removal (Every 12 Hours):** Using a fine-mesh metal scoop, remove both liquid clumps and solid deposits morning and evening. Add a half-cup scoop of fresh timber litter to maintain the depth.\n2. **Weekly Depth Audit:** Ensure the litter depth remains between 2.5 and 3 inches. When litter is too shallow, urine strikes the plastic bottom and creates sticky, foul-smelling residue. If litter is deeper than 3.5 inches, many cats feel unsteady on shifting ground.\n3. **Full Box Dump & Wash (Every 21 to 28 Days):** Empty all remaining litter into compost or green waste (if septic-safe). Wash the tray using warm water and unscented vegetable castile soap. Allow the plastic to dry completely in open air before adding fresh litter."
+  },
+  {
+    "id": "blog-choosing-dog-treats",
+    "slug": "how-to-choose-the-right-treats-for-your-dog",
+    "title": "How to Choose the Right Treats for Your Dog",
+    "subtitle": "A functional guide to distinguishing high-recall training rewards, dental mineral chews, and calming botanicals.",
+    "category": "Buying Guides",
+    "excerpt": "Treats should serve distinct physiological and behavioral purposes. Learn how to curate a treat pouch that supports loose-leash training, dental molar cleaning, and calm mental settling without empty calories.",
+    "author": {
+      "name": "Marcus Sterling",
+      "role": "Canine Behavioral Lead"
+    },
+    "publishedDate": "2026-09-08",
+    "readTimeMinutes": 5,
+    "tags": ["Buying Guides", "Training", "Dog Care", "Treats"],
+    "featured": false,
+    "heroImage": "/src/assets/images/product_yak_chews_1790396050313.jpg",
+    "relatedProductIds": [
+      "prod-duck-liver-training-treats",
+      "prod-himalayan-yak-chews",
+      "prod-chamomile-calming-bites"
+    ],
+    "takeaways": [
+      "Categorize treats into functional tiers: high-value recall morsels, quiet focus chews, and bedtime botanical supplements.",
+      "Prioritize single-ingredient raw freeze-dried proteins (like pure duck liver) to avoid hidden corn syrup, wheat gluten, and artificial food coloring.",
+      "Never feed bleached industrial rawhide; substitute with dense, sun-cured Himalayan yak cheese bars that puff safely in the microwave.",
+      "Ensure treats represent no more than 10% of total daily caloric expenditure to prevent micronutrient imbalance."
+    ],
+    "content": "Walking into a modern pet supply aisle presents an overwhelming wall of colorful bags boasting bacon flavors, cheese pastes, and glazed bone shapes. Yet a glance at their ingredient panels frequently reveals propylene glycol, animal digest, artificial red dyes, and corn syrup solids.\n\nTreats are not just snacks: when selected with intentionality, they are precision behavioral tools and nutritional supplements.\n\n### The Three Functional Treat Categories\n\nTo construct an effective pantry, companion guardians should stock three distinct types of rewards:\n\n#### 1. High-Value Recall Morsels (Small, Fragrant, Fast)\nDuring loose-leash walks or off-leash park recall, your reward must compete with neighborhood squirrels, bicycle runners, and enticing scent trails. For these moments, dry crunchy biscuits fail because dogs must stop and chew. Instead, use freeze-dried raw organ meats such as free-range duck liver. They crumble effortlessly between fingers into tiny pea-sized bites, deliver an intense natural scent, and can be swallowed in half a second during continuous heel walking.\n\n#### 2. Quiet Focus Chews (Long-Lasting, Non-Splintering)\nWhen dogs need mental de-escalation after high-stimulation outdoor activities, chewing stimulates the vagus nerve and releases endorphins. Commercial rawhide is chemically processed with lime wash and synthetic glues that pose severe gastrointestinal blockage hazards. Artisanal Himalayan yak cheese chews—cured under high mountain sun for months—provide up to eight hours of safe gnawing that mechanically scrapes plaque from molars without splintering.\n\n#### 3. Targeted Botanical Soft Chews\nHerbal chews combining organic German chamomile, L-Theanine, and magnesium glycinate offer predictable calming support before vet appointments, car rides, or regional thunderstorm events without pharmaceutical sedation."
+  },
+  {
+    "id": "blog-pet-supply-reorder-routine",
+    "slug": "creating-a-practical-pet-supply-reorder-routine",
+    "title": "Creating a Practical Pet-Supply Reorder Routine",
+    "subtitle": "Pantry mathematics: calculating consumption rates, lead times, and emergency buffers to eliminate last-minute store runs.",
+    "category": "Pet Routines",
+    "excerpt": "Running out of food at 8 PM on a Sunday forces desperate supermarket substitutions that disrupt companion gut bacteria. Here is a simple mathematical system to automate replenishment with zero waste.",
+    "author": {
+      "name": "Thomas Rowan",
+      "role": "Co-Founder & Sourcing Director"
+    },
+    "publishedDate": "2026-09-02",
+    "readTimeMinutes": 5,
+    "tags": ["Pet Routines", "Pet Supplies", "Buying Guides", "Subscriptions"],
+    "featured": false,
+    "heroImage": "/src/assets/images/pantry_pet_provisions_1790398242767.jpg",
+    "relatedProductIds": [
+      "prod-venison-ancient-grains",
+      "prod-pine-cedar-cat-litter"
+    ],
+    "takeaways": [
+      "Calculate your companion's daily dry-matter intake: Bag Weight in Ounces ÷ Daily Ounces = Total Days of Fresh Food.",
+      "Calibrate auto-ship cadences so orders arrive 48 to 72 hours before your airtight storage container runs dry.",
+      "Pair heavy pantry foundations (kibble sacks and litter) with alternating wellness items (salmon oil, dental chews) to clear free courier thresholds.",
+      "Use our 1-click SMS or dashboard skipping tools during travel rather than cancelling routines."
+    ],
+    "content": "Every companion parent has experienced the Sunday night pantry panic: looking into the storage vault and discovering only a thin dusting of kibble crumbs at the bottom, followed by an emergency drive to a big-box grocery store to buy whatever commercial food is on the shelf.\n\nSudden dietary shifts are the primary cause of acute canine diarrhea and feline gastric vomiting. A stable pantry schedule eliminates this friction entirely.\n\n### The Simple Pantry Calculation\n\nTo establish your household replenishment rhythm, measure your daily feeding volume against the bag size:\n\n- **Formula:** A standard 14 lb bag contains roughly 56 cups of nutrient-dense dry kibble.\n- **Example Canine:** A 45 lb working dog eating 2 cups per day finishes a 14 lb bag in exactly 28 days (4 weeks).\n- **Optimal Setting:** Selecting an **Every 4 weeks** delivery frequency ensures that fresh kettle-roasted food arrives at your door on day 26—providing a 48-hour safety buffer before the previous bag is depleted.\n\n### Consolidating Shipments for Carbon-Neutral Efficiency\n\nRather than receiving disparate small parcel deliveries throughout the month, synchronize your heavy foundation orders. Bundling your monthly dry kibble with your feline litter or companion omega oils qualifies for complimentary regional courier dispatch (orders over $49) and minimizes cardboard box waste in Portland."
+  },
+  {
+    "id": "blog-fresh-batch-science",
+    "slug": "why-fresh-batch-kibble-matters-lipid-oxidation",
+    "title": "Why Fresh-Batch Kibble Matters: The Hidden Science of Fat Oxidation",
+    "subtitle": "How multi-year warehousing in mass-market pet food degrades essential omega fatty acids into inflammatory lipid peroxides before bags ever reach retail shelves.",
+    "category": "Nutrition",
+    "excerpt": "Most commercial pet parents carefully inspect the guaranteed analysis on the back of kibble bags, yet few consider the time elapsed between the extruder oven and the feeding bowl.",
+    "author": {
+      "name": "Dr. Sarah Chen, DVM",
+      "role": "Veterinary Nutrition Advisor"
+    },
+    "publishedDate": "2026-08-25",
+    "readTimeMinutes": 6,
+    "tags": ["Nutrition", "Dog Care", "Omega-3", "Food Freshness"],
+    "featured": false,
+    "heroImage": "/src/assets/images/product_venison_kibble_1790396027749.jpg",
+    "relatedProductIds": [
+      "prod-venison-ancient-grains",
+      "prod-salmon-oil-omega"
+    ],
+    "takeaways": [
+      "Extruded animal fats react with ambient oxygen over time, forming rancid lipid peroxides that trigger chronic gut and skin inflammation.",
+      "Live probiotic cultures sprayed onto standard industrial kibbles suffer steep mortality curves after 90 days in warm warehouses.",
+      "Rowan & Hound bakes in modest kettle runs every 21 days, ensuring food reaches bowls at peak bioactivity.",
+      "Always store dry kibble inside its original barrier bag inside an airtight container to preserve protective nitrogen flushing."
+    ],
+    "content": "When examining a pet food label, two products can appear virtually identical on paper: 29% protein, 15% fat, fortified with vitamins and trace minerals. Yet in biological reality, their metabolic impact inside your dog's gut can be worlds apart.\n\nThe differentiating factor that rarely appears on retail shelves is freshness and lipid integrity.\n\n### The Chemistry of Rancidity\n\nAnimal fats and botanical oils are essential for cellular membrane elasticity, cognitive function, and dense coat insulation. However, polyunsaturated fatty acids are inherently unstable. When mass-produced pet food sits in non-climate-controlled distribution warehouses for 12 to 18 months, heat and oxygen break fatty acid double bonds, producing free radicals, hydroperoxides, and secondary aldehydes.\n\nThese oxidation products give old kibble a bitter, chalky smell and, upon consumption, bind to mucosal cells lining the canine small intestine, provoking low-grade systemic inflammation and itchy skin flares.\n\n### The 21-Day Roasting Philosophy\n\nBy roasting in small kettle batches every three weeks and shipping directly from our Pacific Northwest depot, our provisions reach companion bowls within days of cooling. Essential vitamin E tocopherols remain active, and delicate live probiotics retain full viable colony counts."
+  },
+  {
+    "id": "blog-grooming-colloidal-oatmeal",
+    "slug": "colloidal-oatmeal-natural-bristles-coat-barrier",
+    "title": "Colloidal Oatmeal & Natural Bristles: Restoring the Coat Barrier",
+    "subtitle": "Why commercial detergents strip the acid mantle, and how micro-milled oats and boar bristle brushing restore skin sebum.",
+    "category": "Grooming",
+    "excerpt": "A lustrous coat begins with preserving natural skin oils. Learn how gentle pH-balanced botanical washes and daily boar bristle grooming prevent seasonal dander and shedding.",
+    "author": {
+      "name": "Eleanor Vance",
+      "role": "Feline & Canine Grooming Specialist"
+    },
+    "publishedDate": "2026-08-18",
+    "readTimeMinutes": 5,
+    "tags": ["Grooming", "Dog Care", "Cat Care", "Coat Health"],
+    "featured": false,
+    "heroImage": "/src/assets/images/product_salmon_oil_1790396039263.jpg",
+    "relatedProductIds": [
+      "prod-botanical-grooming-shampoo",
+      "prod-boar-bristle-brush"
+    ],
+    "takeaways": [
+      "Canine skin pH is neutral to slightly alkaline (6.8 to 7.4); human shampoos are acidic and strip companion epidermal barriers.",
+      "Micro-milled colloidal oatmeal contains beta-glucans and avenanthramides that clinically soothe environmental pollen allergies.",
+      "Dual-sided boar bristle brushing distributes natural sebaceous oils from follicle bases along hair shafts, reducing mats without pulling.",
+      "Bathe active companions only once every 4 to 6 weeks unless heavily soiled with trail mud; over-washing exacerbates dryness."
+    ],
+    "content": "Pet parents frequently assume that more frequent bathing leads to a cleaner companion. In reality, bathing a dog or cat with harsh foaming shampoos stripped of natural lipids often triggers a rebound cycle of excessive dander, intense scratching, and foul secondary yeast odors.\n\n### Understanding Companion Skin pH\n\nHuman skin is acidic, typically registering around pH 5.5. Canine and feline skin is significantly closer to neutral, resting between pH 6.8 and 7.4. Using human baby shampoo or low-cost commercial pet washes formulated with sodium lauryl sulfate (SLS) erodes the delicate acid mantle, allowing environmental bacteria and yeast spores to proliferate.\n\n### The Healing Action of Colloidal Oatmeal\n\nTrue colloidal oatmeal is not simply ground breakfast oats: it is whole-grain oat flour milled into micro-particles that suspend evenly in liquid. When massaged into wet fur, oat avenanthramides act as natural antihistamines, reducing histamine-induced redness and calming itchiness from seasonal grass and weed pollens.\n\n### The Finishing Ritual: Boar Bristle Polish\n\nDaily grooming should be a calming bonding ritual rather than a wrestling match. Use rounded steel pins to ease through undercoat tangles gently, followed by natural boar bristles that sweep down the length of the coat. The dense natural bristles pull natural oils from the skin surface and polish the outer guard hairs, creating a protective water-shedding sheen."
+  },
+  {
+    "id": "blog-training-recall-protocol",
+    "slug": "loose-leash-recall-high-value-rewards-protocol",
+    "title": "Loose-Leash Recall and High-Value Rewards: A Humane Protocol",
+    "subtitle": "Transitioning from backyard obedience to high-distraction trail recall using single-ingredient scent markers.",
+    "category": "Training",
+    "excerpt": "A dependable recall command can save your companion's life on Pacific Northwest trails. Here is a progressive positive reinforcement protocol built around high-value freeze-dried rewards.",
+    "author": {
+      "name": "Marcus Sterling",
+      "role": "Canine Behavioral Lead"
+    },
+    "publishedDate": "2026-08-12",
+    "readTimeMinutes": 6,
+    "tags": ["Training", "Dog Care", "Recall", "Behavior"],
+    "featured": false,
+    "heroImage": "/src/assets/images/hero_dog_natural_1790396014202.jpg",
+    "relatedProductIds": [
+      "prod-duck-liver-training-treats",
+      "prod-bridle-leather-canvas-leash"
+    ],
+    "takeaways": [
+      "Never call your dog for something unpleasant (e.g., bath time, ear drops, leaving the dog park) to prevent poisoned cues.",
+      "Utilize freeze-dried raw duck liver as an exclusive 'Jackpot' marker reserved solely for rapid recall response.",
+      "Practice the 'Collar Touch' game: require your dog to touch your hand with their collar ring before dispensing the reward.",
+      "Gradually increase environmental distance and distraction levels over 4 to 6 weeks rather than testing recall off-leash prematurely."
+    ],
+    "content": "A dog that bolts across a logging road toward an elk herd or dashes toward a busy city intersection cannot be controlled by vocal volume. Fear and panic in a guardian's voice frequently cause dogs to accelerate in the opposite direction.\n\nA rock-solid recall is not built on dominance or shock collars: it is built on hundreds of successful repetitions where coming to the guardian is consistently the most rewarding experience in the dog's universe.\n\n### The Concept of the 'Jackpot' Reward\n\nIf you reward your dog with standard dry kibble during high-distraction situations, you are asking them to abandon high-adrenaline outdoor sensory input for a 5-cent piece of cereal. The economy of dog training requires high-denomination currency.\n\nReserve freeze-dried raw duck liver exclusively for recall. Keep a dozen pea-sized pieces sealed in an easily accessible pocket or pouch. When you issue your recall cue—whether a clean verbal 'Here!' or a double whistle blast—the moment their paws spin around and charge toward you, celebrate with an enthusiastic jackpot: three to five morsels dispensed sequentially over several seconds of joyful praise."
+  },
+  {
+    "id": "blog-pet-supplies-craftsmanship",
+    "slug": "sustainable-pet-supplies-craftsmanship-longevity",
+    "title": "The Companion Wardrobe: Craftsmanship, Natural Fibers & Gear Longevity",
+    "subtitle": "Why vegetable-tanned bridle leather and beeswaxed canvas outlast synthetic webbing while preventing rope burns and hardware failure.",
+    "category": "Pet Supplies",
+    "excerpt": "Modern disposable pet gear fills landfills with frayed nylon and broken zinc snaps. Discover why traditional leathercraft and solid brass hardware offer lifelong durability and safer grip.",
+    "author": {
+      "name": "Thomas Rowan",
+      "role": "Co-Founder & Sourcing Director"
+    },
+    "publishedDate": "2026-07-30",
+    "readTimeMinutes": 5,
+    "tags": ["Pet Supplies", "Buying Guides", "Dog Gear", "Craftsmanship"],
+    "featured": false,
+    "heroImage": "/src/assets/images/pantry_pet_provisions_1790398242767.jpg",
+    "relatedProductIds": [
+      "prod-bridle-leather-canvas-leash"
+    ],
+    "takeaways": [
+      "Cheap nylon leads cause severe friction rope burns on human palms when energetic companions lunge unexpectedly.",
+      "Cast zinc snap bolts frequently corrode or seize up when exposed to Pacific Northwest river grit and coastal salt sand.",
+      "Vegetable-tanned bridle leather absorbs natural hand oils over years, growing softer and more supple with daily use.",
+      "Sand-cast solid brass hardware never rusts, seizes, or fractures under sudden shock loads."
+    ],
+    "content": "In an era of mass-produced pet goods, collars and leashes have become seasonal disposable consumables. Cheap nylon webbing frays within months, neon plastic clips snap in cold weather, and chrome-plated zinc bolt snaps fail under sudden shock loads when a 70 lb dog lunges toward wildlife.\n\n### The Superiority of Waxed Canvas and English Bridle Leather\n\nBefore petrochemical synthetics, working dog handlers in Scotland and the American Northwest relied on heavy cotton canvas waxed with natural beeswax, paired with vegetable-tanned leather steeped in tree bark tannins.\n\nWaxed canvas naturally repels river water, rain, and thick brush thorns without degrading. English bridle leather—hot-stuffed with tallow and beeswax at historical tanneries like Wickett & Craig—does not dry out or crack when soaked by winter rain. Instead of burning your fingers during unexpected pulls, the supple rounded handle conforms comfortably to your grip.\n\n### Solid Brass Hardware: Zero Failure Tolerance\n\nThe most dangerous point of failure on any leash is the snap bolt. Standard commercial leads use cheap die-cast pot metal electroplated with nickel. Under freezing conditions or beach sand intrusion, cast metal snaps can shear in half without warning. Solid sand-cast brass hardware is inherently non-corrosive, non-magnetic, and maintains its mechanical integrity across decades of trail exploration."
+  }
+]

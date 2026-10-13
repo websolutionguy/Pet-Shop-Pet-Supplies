@@ -1,0 +1,16 @@
+[
+  { "id": "size-6lb", "label": "6 lb Pantry Bag", "weight": "6 lbs", "unit": "bag" },
+  { "id": "size-14lb", "label": "14 lb Standard Bag", "weight": "14 lbs", "unit": "bag" },
+  { "id": "size-28lb", "label": "28 lb Kennel Reserve", "weight": "28 lbs", "unit": "bag" },
+  { "id": "size-8oz", "label": "8 fl oz Pump Bottle", "weight": "0.5 lbs", "unit": "bottle" },
+  { "id": "size-16oz", "label": "16 fl oz Pump Bottle", "weight": "1.0 lbs", "unit": "bottle" },
+  { "id": "size-case12", "label": "Case of 12 (5.5 oz)", "weight": "4.1 lbs", "unit": "case" },
+  { "id": "size-case24", "label": "Case of 24 (5.5 oz)", "weight": "8.2 lbs", "unit": "case" },
+  { "id": "size-yak-med", "label": "Medium 3-Pack", "weight": "0.7 lbs", "unit": "pack" },
+  { "id": "size-yak-lg", "label": "Large 3-Pack", "weight": "1.1 lbs", "unit": "pack" },
+  { "id": "size-duck-4oz", "label": "4 oz Training Pouch", "weight": "0.25 lbs", "unit": "pouch" },
+  { "id": "size-duck-10oz", "label": "10 oz Master Pouch", "weight": "0.62 lbs", "unit": "pouch" },
+  { "id": "size-calm-90", "label": "90 Soft Chews Tub", "weight": "0.8 lbs", "unit": "jar" },
+  { "id": "size-hay-5lb", "label": "5 lb Breathable Carton", "weight": "5 lbs", "unit": "box" },
+  { "id": "size-lead-5ft", "label": "5-Foot Standard Lead", "weight": "0.5 lbs", "unit": "piece" }
+]
