@@ -1,11 +1,12 @@
 'use client';
 
 import React from 'react';
-import Image from 'next/image';
 import { Sparkles, Calendar, Repeat, ShieldCheck, Package } from 'lucide-react';
 import { CartItem } from '../../types/cart';
 import { formatCurrency, formatCadenceLabel } from '../../lib/utils';
 import { cartService } from '../../services/cartService';
+import { AppImage } from '../ui/AppImage';
+
 
 interface CheckoutSubscriptionItemsSectionProps {
   items: CartItem[];
@@ -58,14 +59,14 @@ export function CheckoutSubscriptionItemsSection({
                       {/* Product Image */}
                       <div className="relative w-16 h-16 bg-stone-100 rounded-xs overflow-hidden shrink-0 border border-stone-200">
                         {item.product.primaryImage ? (
-                          <Image
+                          <AppImage
                             src={item.product.primaryImage}
                             alt={item.product.name}
                             fill
                             loading="lazy"
                             sizes="64px"
                             className="object-cover"
-                            referrerPolicy="no-referrer"
+                            showSpinner={false}
                           />
                         ) : (
                           <div className="w-full h-full flex items-center justify-center text-stone-400">

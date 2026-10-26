@@ -1,9 +1,10 @@
 'use client';
 
 import React, { useState } from 'react';
-import Image from 'next/image';
 import { motion, AnimatePresence, useReducedMotion } from 'motion/react';
 import { cn } from '../../lib/utils';
+import { AppImage } from '../ui/AppImage';
+
 
 interface ProductImageGalleryProps {
   images: string[];
@@ -64,14 +65,13 @@ export function ProductImageGallery({
             transition={shouldReduceMotion ? { duration: 0 } : { duration: 0.22, ease: 'easeOut' }}
             className="absolute inset-0"
           >
-            <Image
+            <AppImage
               src={activeImage}
               alt={`${productName} — view ${selectedIndex + 1} of ${displayImages.length}`}
               fill
               priority
               sizes="(max-width: 768px) 100vw, 50vw"
               className="object-cover"
-              referrerPolicy="no-referrer"
             />
           </motion.div>
         </AnimatePresence>
@@ -116,14 +116,14 @@ export function ProductImageGallery({
                 )}
                 aria-label={`View photo ${idx + 1} of ${displayImages.length} for ${productName}${isSelected ? ' (currently showing)' : ''}`}
               >
-                <Image
+                <AppImage
                   src={img}
                   alt={`${productName} thumbnail ${idx + 1}`}
                   fill
                   loading="lazy"
                   sizes="80px"
                   className="object-cover"
-                  referrerPolicy="no-referrer"
+                  showSpinner={false}
                 />
 
                 {/* Active border indicator communicating selection */}

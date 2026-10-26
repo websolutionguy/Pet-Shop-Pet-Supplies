@@ -1,11 +1,11 @@
 'use client';
 
 import React from 'react';
-import Image from 'next/image';
 import Link from 'next/link';
 import { Package, ExternalLink } from 'lucide-react';
 import { CartItem } from '../../types/cart';
 import { formatCurrency } from '../../lib/utils';
+import { AppImage } from '../ui/AppImage';
 
 interface CheckoutOrderItemsSectionProps {
   items: CartItem[];
@@ -48,14 +48,14 @@ export function CheckoutOrderItemsSection({ items }: CheckoutOrderItemsSectionPr
                 {/* Thumbnail */}
                 <div className="relative w-14 h-14 bg-stone-100 rounded-xs overflow-hidden shrink-0 border border-stone-200">
                   {item.product.primaryImage ? (
-                    <Image
+                    <AppImage
                       src={item.product.primaryImage}
                       alt={item.product.name}
                       fill
                       loading="lazy"
                       sizes="56px"
                       className="object-cover"
-                      referrerPolicy="no-referrer"
+                      showSpinner={false}
                     />
                   ) : (
                     <div className="w-full h-full flex items-center justify-center text-stone-400">

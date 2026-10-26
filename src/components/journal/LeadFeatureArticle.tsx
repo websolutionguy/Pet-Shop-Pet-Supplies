@@ -1,9 +1,10 @@
 import React from 'react';
-import Image from 'next/image';
 import Link from 'next/link';
 import { ArrowRight, Clock, User, CheckCircle2, Bookmark } from 'lucide-react';
 import { BlogData } from '../../types/data';
 import { formatHumanDate } from '../../lib/utils';
+import { AppImage } from '../ui/AppImage';
+
 
 interface LeadFeatureArticleProps {
   post: BlogData;
@@ -18,14 +19,13 @@ export function LeadFeatureArticle({ post }: LeadFeatureArticleProps) {
       <div className="grid grid-cols-1 lg:grid-cols-12 gap-0">
         {/* Left Visual Column */}
         <div className="lg:col-span-7 relative min-h-[300px] sm:min-h-[420px] lg:min-h-full bg-stone-100 overflow-hidden">
-          <Image
+          <AppImage
             src={heroImage}
             alt={post.title}
             fill
             sizes="(max-width: 1024px) 100vw, 58vw"
             priority
             className="object-cover transition-transform duration-500 hover:scale-105"
-            referrerPolicy="no-referrer"
           />
           <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-black/10 to-transparent lg:hidden" />
 

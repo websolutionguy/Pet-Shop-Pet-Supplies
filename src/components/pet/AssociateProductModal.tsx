@@ -1,13 +1,14 @@
 'use client';
 
 import React, { useState, useEffect, useMemo } from 'react';
-import Image from 'next/image';
 import { X, Search, Check, Star, Sparkles, Plus, Trash2 } from 'lucide-react';
 import { Product } from '../../types/product';
 import { PetProfile } from '../../types/pet';
 import { productService } from '../../services/productService';
 import { formatCurrency, cn } from '../../lib/utils';
 import { Button } from '../ui/Button';
+import { AppImage } from '../ui/AppImage';
+
 
 interface AssociateProductModalProps {
   isOpen: boolean;
@@ -129,14 +130,14 @@ export function AssociateProductModal({
                   <div className="flex items-center gap-3 min-w-0">
                     <div className="relative w-12 h-12 rounded-xs overflow-hidden bg-stone-100 border border-stone-200 shrink-0">
                       {prod.primaryImage ? (
-                        <Image
+                        <AppImage
                           src={prod.primaryImage}
                           alt={prod.name}
                           fill
                           loading="lazy"
                           sizes="48px"
                           className="object-cover"
-                          referrerPolicy="no-referrer"
+                          showSpinner={false}
                         />
                       ) : (
                         <div className="w-full h-full bg-stone-200" />

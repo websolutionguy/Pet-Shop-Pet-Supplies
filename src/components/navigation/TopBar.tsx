@@ -4,8 +4,9 @@ import { STORE_HOURS } from '../../lib/constants';
 
 export function TopBar() {
   return (
-    <div className="bg-[#1E3A2F] text-stone-200 text-xs py-1.5 px-4 border-b border-[#142720] select-none">
-      <div className="max-w-7xl mx-auto flex items-center justify-between gap-4">
+    <div className="bg-[#1E3A2F] text-stone-200 text-xs py-2 border-b border-[#142720] select-none">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center justify-between gap-4">
+
         {/* Usability & Value Message (Non-aggressive, subtle) */}
         <div className="flex items-center gap-2 truncate">
           <Repeat className="w-3.5 h-3.5 text-emerald-300 shrink-0" aria-hidden="true" />

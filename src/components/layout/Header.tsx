@@ -81,7 +81,7 @@ export function Header({
 
               <Link
                 href="/"
-                className="group flex flex-col focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-stone-900 rounded-xs p-1"
+                className="group flex flex-col focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-stone-900 rounded-xs py-1 px-1 -ml-1"
               >
                 <span className="font-serif text-xl sm:text-2xl font-semibold tracking-tight text-stone-900 group-hover:text-stone-700 transition-colors whitespace-nowrap">
                   Rowan & Hound

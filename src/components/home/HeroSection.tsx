@@ -1,10 +1,11 @@
 'use client';
 
 import React from 'react';
-import Image from 'next/image';
 import { ArrowRight, Repeat, ShieldCheck, Check } from 'lucide-react';
 import heroDogImg from '../../assets/images/hero_dog_natural_1790396014202.jpg';
 import { Button } from '../ui/Button';
+import { AppImage } from '../ui/AppImage';
+
 
 interface HeroSectionProps {
   onShopEssentialsClick: () => void;
@@ -100,14 +101,13 @@ export function HeroSection({
           {/* Asymmetric Right Visual Block (5 cols on lg) */}
           <div className="lg:col-span-5 relative">
             <div className="relative aspect-4/5 rounded-xs overflow-hidden border border-stone-200 shadow-sm bg-stone-100">
-              <Image
+              <AppImage
                 src={heroDogImg}
                 alt="Happy trail canine enjoying outdoor exercise with wholesome nutrition"
                 fill
                 priority
                 sizes="(max-width: 1024px) 100vw, 40vw"
                 className="object-cover"
-                referrerPolicy="no-referrer"
               />
 
               {/* Editorial Caption Tag */}

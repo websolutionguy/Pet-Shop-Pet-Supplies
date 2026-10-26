@@ -1,10 +1,11 @@
 'use client';
 
 import React from 'react';
-import Image from 'next/image';
 import { ArrowRight, ArrowUpRight, Sparkles, Package } from 'lucide-react';
 import { cn } from '../../lib/utils';
 import kibbleImg from '../../assets/images/product_venison_kibble_1790396027749.jpg';
+import { AppImage } from '../ui/AppImage';
+
 
 export interface ShopByNeedProps {
   onSelectNeed: (needSlug: string) => void;
@@ -85,14 +86,13 @@ export function ShopByNeed({ onSelectNeed, className }: ShopByNeedProps) {
               </div>
 
               <div className="relative aspect-4/3 w-full bg-stone-100 rounded-xs overflow-hidden border border-stone-200">
-                <Image
+                <AppImage
                   src={kibbleImg}
                   alt="Small-batch pasture venison kibble with ancient grains"
                   fill
                   loading="lazy"
                   sizes="(max-width: 640px) 100vw, (max-width: 1024px) 100vw, 42vw"
                   className="object-cover group-hover:scale-105 transition-transform duration-500"
-                  referrerPolicy="no-referrer"
                 />
               </div>
 

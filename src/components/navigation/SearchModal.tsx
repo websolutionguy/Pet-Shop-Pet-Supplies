@@ -1,13 +1,14 @@
 'use client';
 
 import React, { useState, useEffect, useRef } from 'react';
-import Image from 'next/image';
 import { Search, X, Repeat, Loader2 } from 'lucide-react';
 import { motion, AnimatePresence, useReducedMotion } from 'motion/react';
 import { Product } from '../../types/product';
 import { productService } from '../../services/productService';
 import { formatCurrency } from '../../lib/utils';
 import { useCart } from '../../providers/CartProvider';
+import { AppImage } from '../ui/AppImage';
+
 
 interface SearchModalProps {
   isOpen: boolean;
@@ -184,14 +185,14 @@ function SearchDialogContent({
                       >
                         <div className="relative w-12 h-12 bg-stone-100 rounded-xs overflow-hidden shrink-0 border border-stone-200">
                           {product.primaryImage ? (
-                            <Image
+                            <AppImage
                               src={product.primaryImage}
                               alt={product.name}
                               fill
                               loading="lazy"
                               sizes="48px"
                               className="object-cover"
-                              referrerPolicy="no-referrer"
+                              showSpinner={false}
                             />
                           ) : (
                             <div className="w-full h-full bg-stone-200" />

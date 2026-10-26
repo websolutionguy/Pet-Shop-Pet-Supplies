@@ -1,12 +1,13 @@
 'use client';
 
 import React, { useState } from 'react';
-import Image from 'next/image';
 import { Plus, Minus, Check, Repeat, Sparkles } from 'lucide-react';
 import { Product, ProductVariant } from '../../types/product';
 import { SelectedSubscriptionBundleItem } from './SubscriptionBuilderTypes';
 import { formatCurrency, cn } from '../../lib/utils';
 import { subscriptionService } from '../../services/subscriptionService';
+import { AppImage } from '../ui/AppImage';
+
 
 interface SubscriptionItemCardProps {
   product: Product;
@@ -71,14 +72,13 @@ export function SubscriptionItemCard({
         {/* Top Image + Status Badge */}
         <div className="relative aspect-4/3 bg-stone-100 rounded-xs overflow-hidden mb-3 border border-stone-200/80">
           {product.primaryImage ? (
-            <Image
+            <AppImage
               src={product.primaryImage}
               alt={product.name}
               fill
               loading="lazy"
               sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
               className="object-cover transition-transform duration-300 group-hover:scale-103"
-              referrerPolicy="no-referrer"
             />
           ) : (
             <div className="w-full h-full bg-stone-200" />

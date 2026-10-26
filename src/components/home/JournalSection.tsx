@@ -1,8 +1,9 @@
 'use client';
 
 import React, { useState, useEffect } from 'react';
-import Image from 'next/image';
 import Link from 'next/link';
+import { AppImage } from '../ui/AppImage';
+
 import { ArrowRight, BookOpen, Clock, CheckCircle2 } from 'lucide-react';
 import { blogService } from '../../services/blogService';
 import { BlogData } from '../../types/data';
@@ -63,13 +64,12 @@ export function JournalSection({ initialArticles }: JournalSectionProps) {
             <article className="lg:col-span-7 bg-white border border-stone-200/90 rounded-xs overflow-hidden flex flex-col justify-between shadow-2xs hover:border-stone-400 transition-colors">
               <div>
                 <div className="relative aspect-16/9 w-full bg-stone-100 overflow-hidden">
-                  <Image
+                  <AppImage
                     src={leadArticle.heroImage || '/src/assets/images/hero_dog_natural_1790396014202.jpg'}
                     alt={leadArticle.title}
                     fill
                     sizes="(max-width: 1024px) 100vw, 58vw"
                     className="object-cover"
-                    referrerPolicy="no-referrer"
                   />
                   <span className="absolute top-3 left-3 px-2.5 py-1 bg-stone-900/90 text-white text-[10px] font-mono uppercase tracking-wider rounded-xs font-semibold">
                     Cover Feature · {leadArticle.category}

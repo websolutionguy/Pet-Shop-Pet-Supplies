@@ -1,9 +1,10 @@
 'use client';
 
 import React, { useState } from 'react';
-import Image from 'next/image';
 import { X, Check, Repeat, Plus, ShieldCheck } from 'lucide-react';
 import { Product, ProductVariant, ProductCadence } from '../../types/product';
+import { AppImage } from '../ui/AppImage';
+
 import { useCart } from '../../providers/CartProvider';
 import { formatCurrency } from '../../lib/utils';
 import { CADENCE_OPTIONS } from '../../lib/constants';
@@ -137,13 +138,12 @@ function ProductQuickModalContent({ product, onClose }: { product: Product; onCl
         {/* Media Column */}
         <div className="md:w-1/2 relative min-h-[260px] md:min-h-full bg-stone-100">
           {product.primaryImage ? (
-            <Image
+            <AppImage
               src={product.primaryImage}
               alt={product.name}
               fill
               sizes="(max-width: 768px) 100vw, 50vw"
               className="object-cover"
-              referrerPolicy="no-referrer"
             />
           ) : (
             <div className="w-full h-full flex items-center justify-center text-stone-400">

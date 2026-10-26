@@ -2,8 +2,9 @@
 
 import React, { useState, useEffect } from 'react';
 import Link from 'next/link';
-import Image from 'next/image';
 import { useRouter } from 'next/navigation';
+import { AppImage } from '../ui/AppImage';
+
 import {
   PawPrint,
   Heart,
@@ -297,14 +298,14 @@ export function PetProfilesView() {
                               <div className="flex items-center gap-2.5 min-w-0 pr-2">
                                 <div className="relative w-8 h-8 rounded-xs overflow-hidden bg-white shrink-0 border border-stone-200">
                                   {prod.primaryImage ? (
-                                    <Image
+                                    <AppImage
                                       src={prod.primaryImage}
                                       alt={prod.name}
                                       fill
                                       loading="lazy"
                                       sizes="32px"
                                       className="object-cover"
-                                      referrerPolicy="no-referrer"
+                                      showSpinner={false}
                                     />
                                   ) : (
                                     <div className="w-full h-full bg-stone-200" />

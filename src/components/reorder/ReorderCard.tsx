@@ -1,8 +1,9 @@
 'use client';
 
 import React, { useState } from 'react';
-import Image from 'next/image';
 import Link from 'next/link';
+import { AppImage } from '../ui/AppImage';
+
 import {
   RotateCcw,
   Repeat,
@@ -123,14 +124,14 @@ export function ReorderCard({
         <div className="flex gap-3.5 mb-3.5">
           <div className="relative w-16 h-16 sm:w-20 sm:h-20 bg-stone-100 rounded-xs overflow-hidden shrink-0 border border-stone-200">
             {product.primaryImage ? (
-              <Image
+              <AppImage
                 src={product.primaryImage}
                 alt={product.name}
                 fill
                 loading="lazy"
                 sizes="80px"
                 className="object-cover"
-                referrerPolicy="no-referrer"
+                showSpinner={false}
               />
             ) : (
               <div className="w-full h-full bg-stone-200" />

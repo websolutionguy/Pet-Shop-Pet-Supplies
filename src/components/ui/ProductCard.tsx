@@ -1,7 +1,6 @@
 'use client';
 
 import React, { useState } from 'react';
-import Image from 'next/image';
 import Link from 'next/link';
 import { Repeat, Plus, Check } from 'lucide-react';
 import { Product, ProductVariant, ProductCadence } from '../../types/product';
@@ -11,6 +10,8 @@ import { CADENCE_OPTIONS } from '../../lib/constants';
 import { subscriptionService } from '../../services/subscriptionService';
 import { Price } from './Price';
 import { Button } from './Button';
+import { AppImage } from './AppImage';
+
 
 export interface ProductCardProps {
   product: Product;
@@ -79,14 +80,13 @@ export function ProductCard({
           onClick={() => onQuickView?.(product)}
         >
           {product.primaryImage ? (
-            <Image
+            <AppImage
               src={product.primaryImage}
               alt={product.name}
               fill
               loading="lazy"
               sizes="80px"
               className="object-cover"
-              referrerPolicy="no-referrer"
             />
           ) : (
             <div className="w-full h-full bg-stone-200" />
@@ -150,14 +150,13 @@ export function ProductCard({
         onClick={() => onQuickView?.(product)}
       >
         {product.primaryImage ? (
-          <Image
+          <AppImage
             src={product.primaryImage}
             alt={product.name}
             fill
             loading="lazy"
             sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
             className="object-cover group-hover:scale-[1.02] transition-transform duration-300"
-            referrerPolicy="no-referrer"
           />
         ) : (
           <div className="w-full h-full flex items-center justify-center text-stone-400 text-xs">

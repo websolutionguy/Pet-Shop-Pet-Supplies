@@ -1,7 +1,6 @@
 'use client';
 
 import React, { useState, useEffect } from 'react';
-import Image from 'next/image';
 import { RotateCcw, Package, Clock, Check, Plus, AlertCircle } from 'lucide-react';
 import pantryImg from '../../assets/images/pantry_pet_provisions_1790398242767.jpg';
 import { Product } from '../../types/product';
@@ -10,6 +9,8 @@ import { useCart } from '../../providers/CartProvider';
 import { usePetProfile } from '../../providers/PetProfileProvider';
 import { formatCurrency } from '../../lib/utils';
 import { Button } from '../ui/Button';
+import { AppImage } from '../ui/AppImage';
+
 import {
   FeatureLoadingState,
   FeatureEmptyState,
@@ -188,14 +189,13 @@ export function ReorderSection() {
           {/* Right Column: Editorial Lifestyle Imagery & Reassurances */}
           <div className="lg:col-span-5 relative">
             <div className="relative aspect-4/3 sm:aspect-16/10 lg:aspect-4/5 rounded-xs overflow-hidden border border-stone-200 shadow-sm bg-stone-100">
-              <Image
+              <AppImage
                 src={pantryImg}
                 alt="Neat pet pantry with artisan provisions, amber bottles and stoneware containers"
                 fill
                 loading="lazy"
                 sizes="(max-width: 640px) 100vw, (max-width: 1024px) 100vw, 42vw"
                 className="object-cover"
-                referrerPolicy="no-referrer"
               />
 
               <div className="absolute inset-0 bg-gradient-to-t from-stone-900/60 via-transparent to-transparent flex flex-col justify-end p-4 sm:p-6 text-white">

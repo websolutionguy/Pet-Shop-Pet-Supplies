@@ -1,9 +1,10 @@
 import React from 'react';
 import { Metadata } from 'next';
 import Link from 'next/link';
-import Image from 'next/image';
 import { ShieldCheck, Sparkles, MapPin, CheckCircle, ArrowRight, Heart } from 'lucide-react';
 import { siteService } from '../../services/siteService';
+import { AppImage } from '../../components/ui/AppImage';
+
 import { Header } from '../../components/layout/Header';
 import { Footer } from '../../components/layout/Footer';
 import { CartDrawer } from '../../components/layout/CartDrawer';
@@ -134,14 +135,13 @@ export default async function AboutPage() {
             </div>
 
             <div className="lg:col-span-5 relative aspect-4/5 rounded-xs overflow-hidden border border-stone-200 bg-stone-100 shadow-sm">
-              <Image
+              <AppImage
                 src="/src/assets/images/hero_dog_natural_1790396014202.jpg"
                 alt="Rowan & Hound Pacific Northwest pantry ethos and companion care"
                 fill
                 sizes="(max-width: 1024px) 100vw, 42vw"
                 className="object-cover"
                 loading="lazy"
-                referrerPolicy="no-referrer"
               />
             </div>
           </div>

@@ -1,8 +1,9 @@
 'use client';
 
 import React, { useState, useEffect } from 'react';
-import Image from 'next/image';
 import Link from 'next/link';
+import { AppImage } from '../ui/AppImage';
+
 import {
   ArrowLeft,
   Clock,
@@ -121,14 +122,13 @@ export function JournalArticleDetail({ post }: JournalArticleDetailProps) {
 
       {/* 3. Hero Visual */}
       <div className="relative aspect-16/9 w-full bg-stone-100 rounded-xs overflow-hidden border border-stone-200 shadow-2xs">
-        <Image
+        <AppImage
           src={heroImage}
           alt={post.title}
           fill
           priority
           sizes="(max-width: 896px) 100vw, 896px"
           className="object-cover"
-          referrerPolicy="no-referrer"
         />
       </div>
 
@@ -224,14 +224,14 @@ export function JournalArticleDetail({ post }: JournalArticleDetailProps) {
                 <div className="flex items-center gap-3 min-w-0">
                   <div className="relative w-12 h-12 bg-stone-100 rounded-xs overflow-hidden shrink-0 border border-stone-200">
                     {prod.primaryImage ? (
-                      <Image
+                      <AppImage
                         src={prod.primaryImage}
                         alt={prod.name}
                         fill
                         loading="lazy"
                         sizes="48px"
                         className="object-cover"
-                        referrerPolicy="no-referrer"
+                        showSpinner={false}
                       />
                     ) : (
                       <Package className="w-5 h-5 m-auto text-stone-400" />

@@ -1,8 +1,9 @@
 'use client';
 
 import React, { useState } from 'react';
-import Image from 'next/image';
 import Link from 'next/link';
+import { AppImage } from '../ui/AppImage';
+
 import {
   Package,
   Calendar,
@@ -152,14 +153,14 @@ export function RecentOrder({
               <div className="flex items-center gap-3">
                 <div className="relative w-12 h-12 bg-stone-100 rounded-xs overflow-hidden shrink-0 border border-stone-200">
                   {prod?.primaryImage ? (
-                    <Image
+                    <AppImage
                       src={prod.primaryImage}
                       alt={item.productName}
                       fill
                       loading="lazy"
                       sizes="48px"
                       className="object-cover"
-                      referrerPolicy="no-referrer"
+                      showSpinner={false}
                     />
                   ) : (
                     <div className="w-full h-full flex items-center justify-center bg-stone-100 text-stone-400">

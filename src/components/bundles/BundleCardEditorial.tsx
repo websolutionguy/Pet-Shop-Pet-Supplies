@@ -1,8 +1,9 @@
 'use client';
 
 import React, { useState } from 'react';
-import Image from 'next/image';
 import Link from 'next/link';
+import { AppImage } from '../ui/AppImage';
+
 import {
   Package,
   Repeat,
@@ -155,14 +156,14 @@ export function BundleCardEditorial({
                   <div className="flex items-center gap-3 min-w-0">
                     <div className="relative w-10 h-10 rounded-xs bg-stone-200 overflow-hidden shrink-0 border border-stone-300">
                       {product.primaryImage ? (
-                        <Image
+                        <AppImage
                           src={product.primaryImage}
                           alt={product.name}
                           fill
                           loading="lazy"
                           sizes="40px"
                           className="object-cover"
-                          referrerPolicy="no-referrer"
+                          showSpinner={false}
                         />
                       ) : (
                         <div className="w-full h-full flex items-center justify-center text-stone-400">

@@ -1,10 +1,11 @@
 import React from 'react';
 import Link from 'next/link';
-import Image from 'next/image';
 import { Star, CheckCircle, Package } from 'lucide-react';
 import { ReviewData } from '../../types/data';
 import { Product } from '../../types/product';
 import { formatHumanDate } from '../../lib/utils';
+import { AppImage } from '../ui/AppImage';
+
 
 interface ReviewCardProps {
   review: ReviewData;
@@ -86,14 +87,14 @@ export function ReviewCard({ review, product }: ReviewCardProps) {
           >
             <div className="relative w-7 h-7 rounded-xs bg-stone-200 overflow-hidden shrink-0">
               {product.primaryImage ? (
-                <Image
+                <AppImage
                   src={product.primaryImage}
                   alt={product.name}
                   fill
                   loading="lazy"
                   sizes="28px"
                   className="object-cover"
-                  referrerPolicy="no-referrer"
+                  showSpinner={false}
                 />
               ) : (
                 <Package className="w-4 h-4 m-auto text-stone-400" />

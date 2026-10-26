@@ -1,9 +1,10 @@
 import React from 'react';
-import Image from 'next/image';
 import Link from 'next/link';
 import { ArrowRight, Clock, CheckCircle2 } from 'lucide-react';
 import { BlogData } from '../../types/data';
 import { formatHumanDate } from '../../lib/utils';
+import { AppImage } from '../ui/AppImage';
+
 
 interface EditorialDuoProps {
   leftPost: BlogData;
@@ -18,14 +19,13 @@ export function EditorialDuo({ leftPost, rightPost }: EditorialDuoProps) {
         <div className="space-y-4">
           <div className="relative aspect-16/9 w-full bg-stone-100 rounded-xs overflow-hidden border border-stone-200">
             {leftPost.heroImage && (
-              <Image
+              <AppImage
                 src={leftPost.heroImage}
                 alt={leftPost.title}
                 fill
                 loading="lazy"
                 sizes="(max-width: 1024px) 100vw, 50vw"
                 className="object-cover transition-transform duration-500 hover:scale-105"
-                referrerPolicy="no-referrer"
               />
             )}
             <span className="absolute top-3 left-3 px-2 py-0.5 bg-stone-900/90 text-white text-[10px] font-mono uppercase tracking-wider rounded-xs">

@@ -1,7 +1,8 @@
 'use client';
 
 import React from 'react';
-import Image from 'next/image';
+import { AppImage } from '../ui/AppImage';
+
 import {
   Calendar,
   Sparkles,
@@ -124,14 +125,14 @@ export function SubscriptionBundleSummary({
                 >
                   <div className="relative w-12 h-12 rounded-xs overflow-hidden bg-white shrink-0 border border-stone-200">
                     {item.product.primaryImage ? (
-                      <Image
+                      <AppImage
                         src={item.product.primaryImage}
                         alt={item.product.name}
                         fill
                         loading="lazy"
                         sizes="48px"
                         className="object-cover"
-                        referrerPolicy="no-referrer"
+                        showSpinner={false}
                       />
                     ) : (
                       <div className="w-full h-full bg-stone-100" />

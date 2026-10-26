@@ -18,3 +18,4 @@ export * from './EmptyState';
 export * from './ErrorState';
 export * from './LoadingState';
 export * from './StateFeedback';
+export * from './AppImage';

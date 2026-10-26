@@ -1,11 +1,12 @@
 'use client';
 
 import React, { useState, useEffect } from 'react';
-import Image from 'next/image';
 import { Repeat, Plus, Check } from 'lucide-react';
 import { Product } from '../../types/product';
 import { formatCurrency } from '../../lib/utils';
 import { Button } from '../ui/Button';
+import { AppImage } from '../ui/AppImage';
+
 
 interface ProductStickyBarProps {
   product: Product;
@@ -50,14 +51,14 @@ export function ProductStickyBar({
         <div className="flex items-center gap-2 sm:gap-2.5 min-w-0">
           <div className="relative w-10 h-10 rounded-xs overflow-hidden bg-stone-100 shrink-0 border border-stone-200">
             {product.primaryImage ? (
-              <Image
+              <AppImage
                 src={product.primaryImage}
                 alt={product.name}
                 fill
                 loading="lazy"
                 sizes="40px"
                 className="object-cover"
-                referrerPolicy="no-referrer"
+                showSpinner={false}
               />
             ) : (
               <div className="w-full h-full bg-stone-200" />

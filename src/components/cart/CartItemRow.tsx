@@ -1,7 +1,6 @@
 'use client';
 
 import React from 'react';
-import Image from 'next/image';
 import Link from 'next/link';
 import { Trash2, Repeat, Check, Sparkles, Tag, Package } from 'lucide-react';
 import { CartItem } from '../../types/cart';
@@ -12,6 +11,7 @@ import { formatCurrency, formatCadenceLabel } from '../../lib/utils';
 import { CADENCE_OPTIONS, SUBSCRIPTION_DISCOUNT_PERCENT } from '../../lib/constants';
 import { cartService } from '../../services/cartService';
 import { cn } from '../../lib/utils';
+import { AppImage } from '../ui/AppImage';
 
 interface CartItemRowProps {
   item: CartItem;
@@ -48,14 +48,14 @@ export function CartItemRow({ item, compact = false }: CartItemRowProps) {
           )}
         >
           {item.product.primaryImage ? (
-            <Image
+            <AppImage
               src={item.product.primaryImage}
               alt={item.product.name}
               fill
               loading="lazy"
               sizes={compact ? '72px' : '96px'}
               className="object-cover"
-              referrerPolicy="no-referrer"
+              showSpinner={false}
             />
           ) : (
             <div className="w-full h-full flex items-center justify-center text-stone-400 bg-stone-100">

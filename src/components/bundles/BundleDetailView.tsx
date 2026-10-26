@@ -1,8 +1,9 @@
 'use client';
 
 import React, { useState } from 'react';
-import Image from 'next/image';
 import Link from 'next/link';
+import { AppImage } from '../ui/AppImage';
+
 import {
   Package,
   Repeat,
@@ -134,14 +135,14 @@ export function BundleDetailView({ bundle }: BundleDetailViewProps) {
                 <div key={`${product.id}-${idx}`} className="pt-6 first:pt-0 flex flex-col sm:flex-row gap-5 items-start">
                   <div className="relative w-20 h-20 sm:w-24 sm:h-24 bg-stone-100 rounded-xs overflow-hidden shrink-0 border border-stone-200">
                     {product.primaryImage ? (
-                      <Image
+                      <AppImage
                         src={product.primaryImage}
                         alt={product.name}
                         fill
                         loading="lazy"
                         sizes="96px"
                         className="object-cover"
-                        referrerPolicy="no-referrer"
+                        showSpinner={false}
                       />
                     ) : (
                       <div className="w-full h-full flex items-center justify-center text-stone-400">
